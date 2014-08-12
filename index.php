@@ -60,8 +60,8 @@
             <button type="button" class="btn btn-primary btn-xs" data-toggle="offcanvas">Toggle nav</button>
           </p>
           <div class="jumbotron">
-            <h1>Hello, world!</h1>
-            <p>This is an example to show the potential of an offcanvas layout pattern in Bootstrap. Try some responsive-range viewport sizes to see it in action.</p>
+            <h1>Hello, 新生!</h1>
+            <p>覺得學校的資訊總是亂糟糟？這裡提供了一個統整的平台加以彙整各系的資訊~</p>
           </div>
           <div class="row">
             <div class="col-6 col-sm-6 col-lg-4">
@@ -116,7 +116,7 @@
       <hr>
 
       <footer>
-        <p>&copy; Company 2014</p>
+        <p>國北教 數資四 iDreamers 製作。</p>
       </footer>
 
     </div><!--/.container-->
