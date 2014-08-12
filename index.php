@@ -65,32 +65,33 @@
           </div>
           <div class="row">
             <div class="col-6 col-sm-6 col-lg-4">
-              <h2>嚼嚼嚼嚼嚼~</h2>
+              <h2>網站公告~</h2>
+              <p><span class="label label-success">系統</span> <font size:13px>-08.12 網站架構完成 </font> </p>
+              <p><a class="btn btn-default" href="#" role="button">查看更多 &raquo;</a></p>
+            </div><!--/span-->
+            <div class="col-6 col-sm-6 col-lg-4">
+              <h2>學校公告~</h2>
+              <p><span class="label label-primary">教務處</span> <font size:13px>-08.11 公告大學部新生學號 </font> </p>
+            </div><!--/span-->
+            <div class="col-6 col-sm-6 col-lg-4">
+              <h2>各系公告</h2>
+              <p><span class="label label-primary">數資系</span> <font size:13px>-08.12 我是測試消息，不要理我 </font> </p>
+              <p><span class="label label-warning">教育系</span> <font size:13px>-08.12 早安早安你好嗎 </font> </p>
+              <p><span class="label label-default">語創系</span> <font size:13px>-08.12 標題不含日期有十一個字 </font> </p>
+              <p><span class="label label-success">藝設系</span> <font size:13px>-08.12 其實我是放來充版面的 </font> </p>
+            </div><!--/span-->
+            <div class="col-6 col-sm-6 col-lg-4">
+              <h2>各系活動</h2>
               <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. </p>
               <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
             </div><!--/span-->
             <div class="col-6 col-sm-6 col-lg-4">
-              <h2>吃吃吃吃吃~</h2>
+              <h2>社團活動</h2>
               <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. </p>
               <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
             </div><!--/span-->
             <div class="col-6 col-sm-6 col-lg-4">
-              <h2>略略略略略~</h2>
-              <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. </p>
-              <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
-            </div><!--/span-->
-            <div class="col-6 col-sm-6 col-lg-4">
-              <h2>Heading</h2>
-              <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. </p>
-              <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
-            </div><!--/span-->
-            <div class="col-6 col-sm-6 col-lg-4">
-              <h2>Heading</h2>
-              <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. </p>
-              <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
-            </div><!--/span-->
-            <div class="col-6 col-sm-6 col-lg-4">
-              <h2>Heading</h2>
+              <h2>特殊保留區</h2>
               <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. </p>
               <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
             </div><!--/span-->
@@ -106,10 +107,6 @@
             <a href="http://academic.ntue.edu.tw/" class="list-group-item">教務處</a>
             <a href="http://dsa.ntue.edu.tw/web/index.php" class="list-group-item">學務處</a>
             <a href="http://apstu.ntue.edu.tw/univweb/Secure/default.aspx" class="list-group-item">教務資訊系統</a>
-            <a href="#" class="list-group-item">Link</a>
-            <a href="#" class="list-group-item">Link</a>
-            <a href="#" class="list-group-item">Link</a>
-            <a href="#" class="list-group-item">Link</a>
           </div>
         </div><!--/span-->
       </div><!--/row-->
