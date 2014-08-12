@@ -7,7 +7,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>Off Canvas Template for Bootstrap</title>
+    <title>國立臺北教育大學 新生資訊站</title>
 
     <!-- Bootstrap core CSS -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
@@ -39,7 +39,7 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          <a class="navbar-brand" href="#">Project name</a>
+          <a class="navbar-brand" href="#">NTUE 新生資訊站</a>
         </div>
         <div class="collapse navbar-collapse">
           <ul class="nav navbar-nav">
@@ -60,22 +60,22 @@
             <button type="button" class="btn btn-primary btn-xs" data-toggle="offcanvas">Toggle nav</button>
           </p>
           <div class="jumbotron">
-            <h1>Hello, 新生!</h1>
-            <p>覺得學校的資訊總是亂糟糟？這裡提供了一個統整的平台加以彙整各系的資訊~</p>
+            <h1>NTUE 新生資訊站 <p style="font-size:17px;" class="label label-primary">**非官方**</p></h1>
+            <p>Hello, 新生! 覺得學校的資訊總是亂糟糟？這裡提供了一個統整的平台加以彙整各系的資訊，讓大家可以更輕易知道各種消息。由於本站屬於非官方性質，故不負任何的責任，如有任何錯誤也歡迎通知作者進行更新。如有各系系學會、系助教、各單位有資訊要需要協助公布，請來信 im@dreamtech.tw ，謝謝。</p>
           </div>
           <div class="row">
             <div class="col-6 col-sm-6 col-lg-4">
-              <h2>Heading</h2>
+              <h2>嚼嚼嚼嚼嚼~</h2>
               <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. </p>
               <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
             </div><!--/span-->
             <div class="col-6 col-sm-6 col-lg-4">
-              <h2>Heading</h2>
+              <h2>吃吃吃吃吃~</h2>
               <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. </p>
               <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
             </div><!--/span-->
             <div class="col-6 col-sm-6 col-lg-4">
-              <h2>Heading</h2>
+              <h2>略略略略略~</h2>
               <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. </p>
               <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
             </div><!--/span-->
@@ -99,12 +99,13 @@
 
         <div class="col-xs-6 col-sm-3 sidebar-offcanvas" id="sidebar" role="navigation">
           <div class="list-group">
-            <a href="#" class="list-group-item active">Link</a>
-            <a href="#" class="list-group-item">Link</a>
-            <a href="#" class="list-group-item">Link</a>
-            <a href="#" class="list-group-item">Link</a>
-            <a href="#" class="list-group-item">Link</a>
-            <a href="#" class="list-group-item">Link</a>
+            <a href="#" class="list-group-item active">常用連結</a>
+            <a href="https://www.facebook.com/groups/ntue107" class="list-group-item">107級 x 新生交流版</a>
+            <a href="http://www.ntue.edu.tw/" class="list-group-item">國北教大首頁</a>
+            <a href="107stuid.pdf" class="list-group-item">大學部新生學號</a>
+            <a href="http://academic.ntue.edu.tw/" class="list-group-item">教務處</a>
+            <a href="http://dsa.ntue.edu.tw/web/index.php" class="list-group-item">學務處</a>
+            <a href="http://apstu.ntue.edu.tw/univweb/Secure/default.aspx" class="list-group-item">教務資訊系統</a>
             <a href="#" class="list-group-item">Link</a>
             <a href="#" class="list-group-item">Link</a>
             <a href="#" class="list-group-item">Link</a>
@@ -116,7 +117,7 @@
       <hr>
 
       <footer>
-        <p>國北教 數資四 iDreamers 製作。</p>
+        <p><center>國北教 數資四 iDreamers 製作。</center></p>
       </footer>
 
     </div><!--/.container-->
