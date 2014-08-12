@@ -1,5 +1,5 @@
 
-<!DOCTYPE html>
+<?php 
 <html xmlns:fb="http://ogp.me/ns/fb#">
   <head>
     <meta charset="utf-8">
@@ -132,3 +132,4 @@
     <script src="js/offcanvas.js"></script>
   </body>
 </html>
+?>
