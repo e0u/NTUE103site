@@ -107,6 +107,7 @@
             <a href="http://academic.ntue.edu.tw/" class="list-group-item">教務處</a>
             <a href="http://dsa.ntue.edu.tw/web/index.php" class="list-group-item">學務處</a>
             <a href="http://apstu.ntue.edu.tw/univweb/Secure/default.aspx" class="list-group-item">教務資訊系統</a>
+            
           </div>
         </div><!--/span-->
       </div><!--/row-->
@@ -114,7 +115,9 @@
       <hr>
 
       <footer>
-        <p><center>國北教 數資四 iDreamers 製作。</center></p>
+        <center>
+          <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="創用 CC 授權條款" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />本著作由<a xmlns:cc="http://creativecommons.org/ns#" href="https://www.facebook.com/dreammner.li" property="cc:attributionName" rel="cc:attributionURL">iDreamers</a>製作，以<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">創用CC 姓名標示-相同方式分享 4.0 國際 授權條款</a>釋出。
+          <p>國北教 數資四 iDreamers 製作。</p></center>
       </footer>
 
     </div><!--/.container-->
