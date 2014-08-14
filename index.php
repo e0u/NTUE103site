@@ -45,7 +45,37 @@
           <ul class="nav navbar-nav">
             <li class="active"><a href="#">Home</a></li>
             <li><a href="#about">About</a></li>
-            <li><a href="#contact">Contact</a></li>
+            <li><a href="#News">News</a></li>
+            <li class="dropdown">
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown">理學院<b class="caret"></b></a>
+              <ul class="dropdown-menu">
+                <li><a href="#about">About</a></li>
+                <li><a href="#about">About</a></li>
+                <li><a href="#about">About</a></li>
+                <li><a href="#about">About</a></li>
+              </ul>
+            </li>
+            <li class="dropdown">
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown">教育學院<b class="caret"></b></a>
+              <ul class="dropdown-menu">
+                <li><a href="#about">About</a></li>
+                <li><a href="#about">About</a></li>
+                <li><a href="#about">About</a></li>
+                <li><a href="#about">About</a></li>
+              </ul>
+            </li>
+            <li class="dropdown">
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown">人文藝術學院<b class="caret"></b></a>
+              <ul class="dropdown-menu">
+                <li><a href="#about">About</a></li>
+                <li><a href="#about">About</a></li>
+                <li><a href="#about">About</a></li>
+                <li><a href="#about">About</a></li>
+              </ul>
+            </li>
+            <li><a href="#News">Q&A</a></li>
+            <li><a href="#News">社團資訊</a></li>
+            <li><a href="#News">修課資訊</a></li>
           </ul>
         </div><!-- /.nav-collapse -->
       </div><!-- /.container -->
@@ -60,7 +90,8 @@
             <button type="button" class="btn btn-primary btn-xs" data-toggle="offcanvas">Toggle nav</button>
           </p>
           <div class="jumbotron">
-            <h1>NTUE 新生資訊站 <p style="font-size:17px;" class="label label-primary">**非官方**</p></h1>
+            <h2>NTUE 新生資訊站 (搶先測試版) <p style="font-size:17px;" class="label label-primary">**非官方**</p></h2>
+            <font color="red">本網站目前建置中... 資料將陸續更新</font>
             <p>Hello, 新生! 覺得學校的資訊總是亂糟糟？這裡提供了一個統整的平台加以彙整各系的資訊，讓大家可以更輕易知道各種消息。由於本站屬於非官方性質，故不負任何的責任，如有任何錯誤也歡迎通知作者進行更新。如有各系系學會、系助教、各單位有資訊要需要協助公布，請來信 im@dreamtech.tw ，謝謝。</p>
           </div>
           <div class="row">
@@ -107,6 +138,8 @@
             <a href="http://academic.ntue.edu.tw/" class="list-group-item">教務處</a>
             <a href="http://dsa.ntue.edu.tw/web/index.php" class="list-group-item">學務處</a>
             <a href="http://apstu.ntue.edu.tw/univweb/Secure/default.aspx" class="list-group-item">教務資訊系統</a>
+            <a href="https://www.facebook.com/groups/414033391994003/" class="list-group-item">學治會 FB 社團</a>
+            <a href="https://www.facebook.com/groups/194514594077227/" class="list-group-item">國北選課沒地雷</a>
             
           </div>
         </div><!--/span-->
@@ -116,8 +149,8 @@
 
       <footer>
         <center>
-          <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="創用 CC 授權條款" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />本著作由<a xmlns:cc="http://creativecommons.org/ns#" href="https://www.facebook.com/dreammner.li" property="cc:attributionName" rel="cc:attributionURL">iDreamers</a>製作，以<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">創用CC 姓名標示-相同方式分享 4.0 國際 授權條款</a>釋出。
-          <p>國北教 數資四 iDreamers 製作。</p></center>
+          <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="創用 CC 授權條款" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />國北教 數資四 <a xmlns:cc="http://creativecommons.org/ns#" href="https://www.facebook.com/dreammner.li" property="cc:attributionName" rel="cc:attributionURL">iDreamers </a>製作。<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0 </a>。
+        </center>
       </footer>
 
     </div><!--/.container-->
