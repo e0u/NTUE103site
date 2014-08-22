@@ -30,6 +30,7 @@
   </head>
 
   <body>
+    <?php include_once("analyticstracking.php") ?>
     <div class="navbar navbar-fixed-top navbar-inverse" role="navigation">
       <div class="container">
         <div class="navbar-header">
