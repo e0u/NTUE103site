@@ -38,28 +38,31 @@
             <li class="dropdown">
               <a href="#" class="dropdown-toggle" data-toggle="dropdown">理學院<b class="caret"></b></a>
               <ul class="dropdown-menu">
-                <li><a href="#about">About</a></li>
-                <li><a href="#about">About</a></li>
-                <li><a href="#about">About</a></li>
-                <li><a href="#about">About</a></li>
+                <li><a href="#about">體育學系</a></li>
+                <li><a href="#about">資訊科學系</a></li>
+                <li><a href="#about">自然科學教育學系</a></li>
+                <li><a href="#about">數位科技設計學系</a></li>
+                <li><a href="#about">數學暨資訊教育學系</a></li>
               </ul>
             </li>
             <li class="dropdown">
               <a href="#" class="dropdown-toggle" data-toggle="dropdown">教育學院<b class="caret"></b></a>
               <ul class="dropdown-menu">
-                <li><a href="#about">About</a></li>
-                <li><a href="#about">About</a></li>
-                <li><a href="#about">About</a></li>
-                <li><a href="#about">About</a></li>
+                <li><a href="#about">教育學系</a></li>
+                <li><a href="#about">特殊教育學系</a></li>
+                <li><a href="#about">教育經營與管理學系</a></li>
+                <li><a href="#about">幼兒與家庭教育學系</a></li>
+                <li><a href="#about">社會與區域發展學系</a></li>
               </ul>
             </li>
             <li class="dropdown">
               <a href="#" class="dropdown-toggle" data-toggle="dropdown">人文藝術學院<b class="caret"></b></a>
               <ul class="dropdown-menu">
-                <li><a href="#about">About</a></li>
-                <li><a href="#about">About</a></li>
-                <li><a href="#about">About</a></li>
-                <li><a href="#about">About</a></li>
+                <li><a href="#about">音樂學系</a></li>
+                <li><a href="#about">語文與創作學系</a></li>
+                <li><a href="#about">兒童英語教育學系</a></li>
+                <li><a href="#about">藝術與造形設計學系</a></li>
+                <li><a href="#about">文化創意產業經營學系</a></li>
               </ul>
             </li>
             <li><a href="#News">Q&A</a></li>
