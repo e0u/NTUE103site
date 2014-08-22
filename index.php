@@ -31,56 +31,7 @@
 
   <body>
     <?php include_once("analyticstracking.php") ?>
-    <div class="navbar navbar-fixed-top navbar-inverse" role="navigation">
-      <div class="container">
-        <div class="navbar-header">
-          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
-            <span class="sr-only">Toggle navigation</span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-          </button>
-          <a class="navbar-brand" href="#">NTUE 新生資訊站</a>
-        </div>
-        <div class="collapse navbar-collapse">
-          <ul class="nav navbar-nav">
-            <li class="active"><a href="#">Home</a></li>
-            <li><a href="#about">About</a></li>
-            <li><a href="#News">News</a></li>
-            <li class="dropdown">
-              <a href="#" class="dropdown-toggle" data-toggle="dropdown">理學院<b class="caret"></b></a>
-              <ul class="dropdown-menu">
-                <li><a href="#about">About</a></li>
-                <li><a href="#about">About</a></li>
-                <li><a href="#about">About</a></li>
-                <li><a href="#about">About</a></li>
-              </ul>
-            </li>
-            <li class="dropdown">
-              <a href="#" class="dropdown-toggle" data-toggle="dropdown">教育學院<b class="caret"></b></a>
-              <ul class="dropdown-menu">
-                <li><a href="#about">About</a></li>
-                <li><a href="#about">About</a></li>
-                <li><a href="#about">About</a></li>
-                <li><a href="#about">About</a></li>
-              </ul>
-            </li>
-            <li class="dropdown">
-              <a href="#" class="dropdown-toggle" data-toggle="dropdown">人文藝術學院<b class="caret"></b></a>
-              <ul class="dropdown-menu">
-                <li><a href="#about">About</a></li>
-                <li><a href="#about">About</a></li>
-                <li><a href="#about">About</a></li>
-                <li><a href="#about">About</a></li>
-              </ul>
-            </li>
-            <li><a href="#News">Q&A</a></li>
-            <li><a href="#News">社團資訊</a></li>
-            <li><a href="#News">修課資訊</a></li>
-          </ul>
-        </div><!-- /.nav-collapse -->
-      </div><!-- /.container -->
-    </div><!-- /.navbar -->
+    <?php include_once("navbar.php") ?>
 
     <div class="container">
 
@@ -149,9 +100,7 @@
       <hr>
 
       <footer>
-        <center>
-          <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="創用 CC 授權條款" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />國北教 數資四 <a xmlns:cc="http://creativecommons.org/ns#" href="https://www.facebook.com/dreammner.li" property="cc:attributionName" rel="cc:attributionURL">iDreamers </a>製作。<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0 </a>。
-        </center>
+        <?php include_once("footer.php") ?>
       </footer>
 
     </div><!--/.container-->
