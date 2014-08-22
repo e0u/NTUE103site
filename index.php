@@ -28,7 +28,49 @@
       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
     <![endif]-->
   </head>
+<!--
 
+
+
+                            ;'''''':
+                               ;''''';,
+                                 ,'''''';;,`
+                                   :'+''';;;::::,`
+                                    .+'';:::::::::,,
+                                     ,;:,,,,,,,,:::,,,
+                                      :,,:;,,,,::::::,,
+                                      ,,,,,,,,,:::::::,,
+                                      ,,,,,,,,,,:::::::,,
+                                      .,,,,,,,,::::::::,,.
+                                      .,,,,:,,,:::::::::,:
+                                      .,,,,,,,,:::::::::::
+                                      ,,,.,,,,,:::::::::::   太陽花好吃嗎？
+                                      ,,.,,,,,::::::::::::
+                                     .,..,,,,::::::::::::;   問秋意。
+                                     ,,.,,,,,::::::::::::
+                                    ,,.,,,,::::::::::::::
+                                   ,,,,,,,::::::::::::::
+                                  ,,,,,,,:::;;;::::::::,
+                                 ,,,,,,,::;;;;;::::::::
+                               `:,,,,,,::;;;;:::::::::
+                              ,:,,,,,,::;;;;;:::;::::
+                            `:,,,,,,,::;;;;;::;;:::.
+                           ::,,,,,,::;;;;;;:;;;:::
+                         ::,,,,,,::;;;;;:::;;;:::
+                       ,:,,,,,,::;;;;;;;;;;;::;`
+                     ,:,,,,,:::;;;;;;::;;;::::
+                   ,:,,,,,:::;;;;;;:::;;;;;:
+                 .:,,,,:::;;;;;;:::;;;::::
+               `::,,,:::;;;;;;:::;;;:::.
+              :,,:::::;;;;;;;::;;::::`
+            ::::::::;;;;;;;;;;:::;,
+         `;;;;;;;;;;;;;;;;:::::,
+         ;;''';:;;;;;::::::.
+          .++'';;::,.`
+
+
+
+-->
   <body>
     <?php include_once("analyticstracking.php") ?>
     <?php include_once("navbar.php") ?>
@@ -65,18 +107,23 @@
             </div><!--/span-->
             <div class="col-6 col-sm-6 col-lg-4">
               <h2>各系活動</h2>
-              <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. </p>
-              <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
+              <p><span class="label label-primary">數資系</span> <font size:13px>-08.20 我是測試消息，不要理我 </font> </p>
+              <p><span class="label label-warning">教育系</span> <font size:13px>-08.19 早安早安你好嗎 </font> </p>
+              <p><span class="label label-default">語創系</span> <font size:13px>-08.19 標題不含日期有十一個字 </font> </p>
+              <p><a class="btn btn-default" href="#" role="button">查看更多 &raquo;</a></p>
             </div><!--/span-->
             <div class="col-6 col-sm-6 col-lg-4">
               <h2>社團活動</h2>
-              <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. </p>
-              <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
+              <p><span class="label label-primary">數資系</span> <font size:13px>-08.20 一二三四五六七八九零零 </font> </p>
+              <p><span class="label label-warning">教育系</span> <font size:13px>-08.19 這只是測試測試測試 </font> </p>
+              <p><span class="label label-default">語創系</span> <font size:13px>-08.19 標題不含日期有十一個字 </font> </p>
+              <p><a class="btn btn-default" href="#" role="button">查看更多 &raquo;</a></p>
             </div><!--/span-->
             <div class="col-6 col-sm-6 col-lg-4">
-              <h2>特殊保留區</h2>
-              <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. </p>
-              <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
+              <h2>About</h2>
+              <p>其實我也不知道為甚麼想做這個，大概是太無聊了吧？雖然我很命苦的在暑修ing...
+                但是看不下去時，會想做點不同的東西來呈現出來...</p>
+              
             </div><!--/span-->
           </div><!--/row-->
         </div><!--/span-->
