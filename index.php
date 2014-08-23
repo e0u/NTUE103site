@@ -46,6 +46,11 @@
           <strong>目前進行事項：</strong> 請欲申請宿舍的新生，到<a href="http://apstu.ntue.edu.tw/univweb/Secure/default.aspx">校務資訊系統</a>內進行登錄。</br>
           路徑：登入校務系統後 > 宿舍管理 > 申請宿舍。
           </div>
+          <div class="alert alert-success fade in" role="alert">
+          <button type="button" class="close" data-dismiss="alert"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
+          <strong>目前有的社團活動：</strong> 管樂社 <a href="https://www.facebook.com/groups/ntue107/permalink/1517522428459400/"><font size:13px>-08.23 嘉義管樂節 熱血報名中 </font></a></br>
+          
+          </div>
           <div class="jumbotron">
             <h2>NTUE 新生資訊站<p style="font-size:17px;" class="label label-primary">**非官方**</p></h2>
             <font color="red">本網站目前建置中... 資料將陸續更新</font>
@@ -81,8 +86,9 @@
             </div><!--/span-->
             <div class="col-6 col-sm-6 col-lg-4">
               <h2>社團活動</h2>
+
+              <p><span class="label label-danger">管樂社</span> <a href="https://www.facebook.com/groups/ntue107/permalink/1517522428459400/"><font size:13px>-08.23 嘉義管樂節 熱血報名中 </font></a> </p>
               <p><span class="label label-primary">數資系</span> <font size:13px>-08.20 一二三四五六七八九零零 </font> </p>
-              <p><span class="label label-warning">教育系</span> <font size:13px>-08.19 這只是測試測試測試 </font> </p>
               <p><span class="label label-default">語創系</span> <font size:13px>-08.19 標題不含日期有十一個字 </font> </p>
               <p><a class="btn btn-default" href="#" role="button">查看更多 &raquo;</a></p>
             </div><!--/span-->
