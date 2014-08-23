@@ -91,12 +91,13 @@
           <div class="row">
             <div class="col-6 col-sm-6 col-lg-4">
               <h2>網站公告~</h2>
-              <p><span class="label label-success">系統</span> <font size:13px>-08.12 網站架構完成 </font> </p>
+              <p><span class="label label-success">系統</span> <font size:13px>-08.23 網站對外上線 </font> </p>
+              <p><span class="label label-success">系統</span> <font size:13px>-08.12 網站架構完成 </font> </p>              
               <p><a class="btn btn-default" href="#" role="button">查看更多 &raquo;</a></p>
             </div><!--/span-->
             <div class="col-6 col-sm-6 col-lg-4">
-              <h2>學校公告~</h2>
-              <p><span class="label label-primary">教務處</span> <font size:13px>-08.11 公告大學部新生學號 </font> </p>
+              <h2>學校資訊</h2>
+              <p><span class="label label-danger">HOT!!</span> <a href="107stuid.pdf"> <font size:13px>-08.11 公告大學部新生學號 </font></a> </p>
             </div><!--/span-->
             <div class="col-6 col-sm-6 col-lg-4">
               <h2>各系公告</h2>
