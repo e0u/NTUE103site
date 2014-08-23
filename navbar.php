@@ -1,3 +1,47 @@
+<!--
+
+
+
+                            ;'''''':
+                               ;''''';,
+                                 ,'''''';;,`
+                                   :'+''';;;::::,`
+                                    .+'';:::::::::,,
+                                     ,;:,,,,,,,,:::,,,
+                                      :,,:;,,,,::::::,,
+                                      ,,,,,,,,,:::::::,,
+                                      ,,,,,,,,,,:::::::,,
+                                      .,,,,,,,,::::::::,,.
+                                      .,,,,:,,,:::::::::,:
+                                      .,,,,,,,,:::::::::::
+                                      ,,,.,,,,,:::::::::::   太陽花好吃嗎？
+                                      ,,.,,,,,::::::::::::
+                                     .,..,,,,::::::::::::;   問秋意。
+                                     ,,.,,,,,::::::::::::
+                                    ,,.,,,,::::::::::::::
+                                   ,,,,,,,::::::::::::::
+                                  ,,,,,,,:::;;;::::::::,
+                                 ,,,,,,,::;;;;;::::::::
+                               `:,,,,,,::;;;;:::::::::
+                              ,:,,,,,,::;;;;;:::;::::
+                            `:,,,,,,,::;;;;;::;;:::.
+                           ::,,,,,,::;;;;;;:;;;:::
+                         ::,,,,,,::;;;;;:::;;;:::
+                       ,:,,,,,,::;;;;;;;;;;;::;`
+                     ,:,,,,,:::;;;;;;::;;;::::
+                   ,:,,,,,:::;;;;;;:::;;;;;:
+                 .:,,,,:::;;;;;;:::;;;::::
+               `::,,,:::;;;;;;:::;;;:::.
+              :,,:::::;;;;;;;::;;::::`
+            ::::::::;;;;;;;;;;:::;,
+         `;;;;;;;;;;;;;;;;:::::,
+         ;;''';:;;;;;::::::.
+          .++'';;::,.`
+
+
+
+-->
+
   <head>
     <!-- Bootstrap core CSS -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
@@ -28,7 +72,7 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          <a class="navbar-brand" href="#">NTUE 新生資訊站</a>
+          <a class="navbar-brand" href="index.php">NTUE 新生資訊站</a>
         </div>
         <div class="collapse navbar-collapse">
           <ul class="nav navbar-nav">            
@@ -37,31 +81,33 @@
             <li class="dropdown">
               <a href="#" class="dropdown-toggle" data-toggle="dropdown">理學院<b class="caret"></b></a>
               <ul class="dropdown-menu">
-                <li><a href="#about">體育學系</a></li>
-                <li><a href="#about">資訊科學系</a></li>
-                <li><a href="#about">自然科學教育學系</a></li>
-                <li><a href="#about">數位科技設計學系</a></li>
-                <li><a href="#about">數學暨資訊教育學系</a></li>
+                <li><a href="pe.php">體育學系</a></li>
+                <li><a href="cs.php">資訊科學系</a></li>
+                <li><a href="nse.php">自然科學教育學系</a></li>
+                <li><a href="dtd.php">數位科技設計學系</a></li>
+                <li><a href="mie.php">數學暨資訊教育學系</a></li>
               </ul>
             </li>
             <li class="dropdown">
               <a href="#" class="dropdown-toggle" data-toggle="dropdown">教育學院<b class="caret"></b></a>
               <ul class="dropdown-menu">
-                <li><a href="#about">教育學系</a></li>
-                <li><a href="#about">特殊教育學系</a></li>
-                <li><a href="#about">教育經營與管理學系</a></li>
-                <li><a href="#about">幼兒與家庭教育學系</a></li>
-                <li><a href="#about">社會與區域發展學系</a></li>
+                <li><a href="e.php">教育學系</a></li>
+                <li><a href="se.php">特殊教育學系</a></li>
+                <li><a href="psy.php">心理與諮商學系</a></li>                
+                <li><a href="em.php">教育經營與管理學系</a></li>
+                <li><a href="che.php">幼兒與家庭教育學系</a></li>
+                <li><a href="s.php">社會與區域發展學系</a></li>
+                
               </ul>
             </li>
             <li class="dropdown">
               <a href="#" class="dropdown-toggle" data-toggle="dropdown">人文藝術學院<b class="caret"></b></a>
               <ul class="dropdown-menu">
-                <li><a href="#about">音樂學系</a></li>
-                <li><a href="#about">語文與創作學系</a></li>
-                <li><a href="#about">兒童英語教育學系</a></li>
-                <li><a href="#about">藝術與造形設計學系</a></li>
-                <li><a href="#about">文化創意產業經營學系</a></li>
+                <li><a href="music.php">音樂學系</a></li>
+                <li><a href="lcw.php">語文與創作學系</a></li>
+                <li><a href="cee.php">兒童英語教育學系</a></li>
+                <li><a href="art.php">藝術與造形設計學系</a></li>
+                <li><a href="ccim.php">文化創意產業經營學系</a></li>
               </ul>
             </li>
             <li><a href="#News">Q&A</a></li>
