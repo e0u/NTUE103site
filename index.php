@@ -28,49 +28,7 @@
       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
     <![endif]-->
   </head>
-<!--
 
-
-
-                            ;'''''':
-                               ;''''';,
-                                 ,'''''';;,`
-                                   :'+''';;;::::,`
-                                    .+'';:::::::::,,
-                                     ,;:,,,,,,,,:::,,,
-                                      :,,:;,,,,::::::,,
-                                      ,,,,,,,,,:::::::,,
-                                      ,,,,,,,,,,:::::::,,
-                                      .,,,,,,,,::::::::,,.
-                                      .,,,,:,,,:::::::::,:
-                                      .,,,,,,,,:::::::::::
-                                      ,,,.,,,,,:::::::::::   太陽花好吃嗎？
-                                      ,,.,,,,,::::::::::::
-                                     .,..,,,,::::::::::::;   問秋意。
-                                     ,,.,,,,,::::::::::::
-                                    ,,.,,,,::::::::::::::
-                                   ,,,,,,,::::::::::::::
-                                  ,,,,,,,:::;;;::::::::,
-                                 ,,,,,,,::;;;;;::::::::
-                               `:,,,,,,::;;;;:::::::::
-                              ,:,,,,,,::;;;;;:::;::::
-                            `:,,,,,,,::;;;;;::;;:::.
-                           ::,,,,,,::;;;;;;:;;;:::
-                         ::,,,,,,::;;;;;:::;;;:::
-                       ,:,,,,,,::;;;;;;;;;;;::;`
-                     ,:,,,,,:::;;;;;;::;;;::::
-                   ,:,,,,,:::;;;;;;:::;;;;;:
-                 .:,,,,:::;;;;;;:::;;;::::
-               `::,,,:::;;;;;;:::;;;:::.
-              :,,:::::;;;;;;;::;;::::`
-            ::::::::;;;;;;;;;;:::;,
-         `;;;;;;;;;;;;;;;;:::::,
-         ;;''';:;;;;;::::::.
-          .++'';;::,.`
-
-
-
--->
   <body>
     <?php include_once("analyticstracking.php") ?>
     <?php include_once("navbar.php") ?>
@@ -83,8 +41,13 @@
           <p class="pull-right visible-xs">
             <button type="button" class="btn btn-primary btn-xs" data-toggle="offcanvas">Toggle nav</button>
           </p>
+          <div class="alert alert-info fade in" role="alert">
+          <button type="button" class="close" data-dismiss="alert"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
+          <strong>目前進行事項：</strong> 請欲申請宿舍的新生，到<a href="http://apstu.ntue.edu.tw/univweb/Secure/default.aspx">校務資訊系統</a>內進行登錄。</br>
+          路徑：登入校務系統後 > 宿舍管理 > 申請宿舍。
+          </div>
           <div class="jumbotron">
-            <h2>NTUE 新生資訊站 (搶先測試版) <p style="font-size:17px;" class="label label-primary">**非官方**</p></h2>
+            <h2>NTUE 新生資訊站<p style="font-size:17px;" class="label label-primary">**非官方**</p></h2>
             <font color="red">本網站目前建置中... 資料將陸續更新</font>
             <p>Hello, 新生! 覺得學校的資訊總是亂糟糟？這裡提供了一個統整的平台加以彙整各系的資訊，讓大家可以更輕易知道各種消息。由於本站屬於非官方性質，故不負任何的責任，如有任何錯誤也歡迎通知作者進行更新。如有各系系學會、系助教、各單位有資訊要需要協助公布，請來信 im@dreamtech.tw ，謝謝。</p>
           </div>
@@ -97,14 +60,17 @@
             </div><!--/span-->
             <div class="col-6 col-sm-6 col-lg-4">
               <h2>學校資訊</h2>
-              <p><span class="label label-danger">HOT!!</span> <a href="107stuid.pdf"> <font size:13px>-08.11 公告大學部新生學號 </font></a> </p>
+              <p><span class="label label-danger">HOT!!</span> <a href="107stuid.pdf"> <font size:13px> 大學部新生學號 </font></a> </p>
+              <p><span class="label label-success">宿舍</span> <font size:13px> 8/19-8/25 宿舍上網登錄申請 </font> </p>
             </div><!--/span-->
             <div class="col-6 col-sm-6 col-lg-4">
               <h2>各系公告</h2>
-              <p><span class="label label-primary">數資系</span> <font size:13px>-08.12 我是測試消息，不要理我 </font> </p>
+              <p><span class="label label-primary">系統</span> <font size:13px>-08.12 我是測試消息，不要理我 </font> </p>
+              
               <p><span class="label label-warning">教育系</span> <font size:13px>-08.12 早安早安你好嗎 </font> </p>
               <p><span class="label label-default">語創系</span> <font size:13px>-08.12 標題不含日期有十一個字 </font> </p>
               <p><span class="label label-success">藝設系</span> <font size:13px>-08.12 其實我是放來充版面的 </font> </p>
+              
             </div><!--/span-->
             <div class="col-6 col-sm-6 col-lg-4">
               <h2>各系活動</h2>
