@@ -43,8 +43,8 @@
           </p>
           <div class="alert alert-info fade in" role="alert">
           <button type="button" class="close" data-dismiss="alert"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
-          <strong>目前進行事項：</strong> 請欲申請宿舍的新生，到<a href="http://apstu.ntue.edu.tw/univweb/Secure/default.aspx">校務資訊系統</a>內進行登錄。</br>
-          路徑：登入校務系統後 > 宿舍管理 > 申請宿舍。
+          <strong>目前進行事項：</strong> 請欲申請機車停車位的新生，到<a href="http://apstu.ntue.edu.tw/univweb/Secure/default.aspx">校務資訊系統</a>內進行登錄。</br>
+          路徑：登入校務系統後 > 機車管理 進行申請。
           </div>
           <div class="alert alert-success fade in" role="alert">
           <button type="button" class="close" data-dismiss="alert"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
@@ -66,7 +66,8 @@
             <div class="col-6 col-sm-6 col-lg-4">
               <h2>學校資訊</h2>
               <p><span class="label label-danger">HOT!!</span> <a href="107stuid.pdf"> <font size:13px> 大學部新生學號 </font></a> </p>
-              <p><span class="label label-success">宿舍</span> <font size:13px> 8/19-8/25 宿舍上網登錄申請 </font> </p>
+              <p><span class="label label-success">NEW!!</span> <a href="http://academic.ntue.edu.tw/files/14-1007-3359,r12-1.php"> 103學年度大一「英文」分班</font></a> </p>
+              <p><span class="label label-default">宿舍</span> <font size:13px> 8/19-8/25 宿舍上網登錄申請 </font> </p>
             </div><!--/span-->
             <div class="col-6 col-sm-6 col-lg-4">
               <h2>各系公告</h2>
