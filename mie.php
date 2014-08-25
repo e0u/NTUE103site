@@ -77,6 +77,7 @@
           <div class="list-group">
             <a href="#" class="list-group-item active">常用連結</a>
             <a href="https://www.facebook.com/groups/131482166952084/" class="list-group-item">國北數資talk版"有話大聲說"</a>
+            <a href="https://www.facebook.com/groups/658407820893917/" class="list-group-item">107級 X 103年國北數資</a>
             <a href="http://www.ntue.edu.tw/" class="list-group-item">國北教大首頁</a>
             <a href="http://apstu.ntue.edu.tw/univweb/Secure/default.aspx" class="list-group-item">教務資訊系統</a>
             <a href="https://www.facebook.com/groups/414033391994003/" class="list-group-item">學治會 FB 社團</a>
