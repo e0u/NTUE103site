@@ -113,7 +113,8 @@
             <a href="http://apstu.ntue.edu.tw/univweb/Secure/default.aspx" class="list-group-item">教務資訊系統</a>
             <a href="https://www.facebook.com/groups/414033391994003/" class="list-group-item">學治會 FB 社團</a>
             <a href="https://www.facebook.com/groups/194514594077227/" class="list-group-item">國北選課沒地雷</a>
-            
+            <a href="https://www.facebook.com/NTUECrushes" class="list-group-item">告白國北 NTUE Crushes</a>
+            <a href="https://www.facebook.com/NTUEHate" class="list-group-item">黑特國北 NTUE Hates</a>
           </div>
         </div><!--/span-->
       </div><!--/row-->
