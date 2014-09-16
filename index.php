@@ -43,14 +43,16 @@
           </p>
           <div class="alert alert-info fade in" role="alert">
           <button type="button" class="close" data-dismiss="alert"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
-          <strong>目前進行事項：</strong> 大一新生第二階段選課，請至<a href="http://apstu.ntue.edu.tw/univweb/Secure/default.aspx">校務資訊系統</a>內進行選課。</br>
-          路徑：登入校務系統後 > 線上選課 > 第二階段選課 進行選課。 本階段為即時選課。(大一新生搶課)
+          <strong>目前進行事項：</strong> 全校第三階段選課，請至<a href="http://apstu.ntue.edu.tw/univweb/Secure/default.aspx">校務資訊系統</a>內進行選課。</br>
+          路徑：登入校務系統後 > 線上選課 > 第三階段選課 進行選課。 本階段為即時選課。(全校搶課)
           </div>
+          <!--
           <div class="alert alert-success fade in" role="alert">
           <button type="button" class="close" data-dismiss="alert"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
           <strong>目前有的社團活動：</strong> 管樂社 <a href="https://www.facebook.com/groups/ntue107/permalink/1517522428459400/"><font size:13px>-08.23 嘉義管樂節 熱血報名中 </font></a></br>
           
           </div>
+        -->
           <div class="jumbotron">
             <h2>NTUE 新生資訊站<p style="font-size:17px;" class="label label-primary">**非官方**</p></h2>
             <font color="red">本網站目前建置中... 資料將陸續更新</font>
