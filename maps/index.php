@@ -29,7 +29,7 @@
       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
     <![endif]-->
   </head>
-<script type="text/javascript">var _jf = _jf || [];_jf.push(['p','30785']);_jf.push(['_setFont','xingothic-tc-w6','css','.xingothic-tc-w6']);_jf.push(['_setFont','xingothic-tc-w6','alias','jfonts']);(function(f,q,c,h,e,i,r,d){var k=f._jf;if(k.constructor===Object){return}var l,t=q.getElementsByTagName("html")[0],a=function(u){for(var v in k){if(k[v][0]==u){if(false===k[v][1].call(k)){break}}}},j=/\S+/g,o=/[\t\r\n\f]/g,b=/^[\s\uFEFF\xA0]+|[\s\uFEFF\xA0]+$/g,g="".trim,s=g&&!g.call("\uFEFF\xA0")?function(u){return u==null?"":g.call(u)}:function(u){return u==null?"":(u+"").replace(b,"")},m=function(y){var w,z,v,u,x=typeof y==="string"&&y;if(x){w=(y||"").match(j)||[];z=t[c]?(" "+t[c]+" ").replace(o," "):" ";if(z){u=0;while((v=w[u++])){if(z.indexOf(" "+v+" ")<0){z+=v+" "}}t[c]=s(z)}}},p=function(y){var w,z,v,u,x=arguments.length===0||typeof y==="string"&&y;if(x){w=(y||"").match(j)||[];z=t[c]?(" "+t[c]+" ").replace(o," "):"";if(z){u=0;while((v=w[u++])){while(z.indexOf(" "+v+" ")>=0){z=z.replace(" "+v+" "," ")}}t[c]=y?s(z):""}}},n;k.push(["_eventActived",function(){p(h);m(e)}]);k.push(["_eventInactived",function(){p(h);m(i)}]);k.addScript=n=function(u,A,w,C,E,B){E=E||function(){};B=B||function(){};var x=q.createElement("script"),z=q.getElementsByTagName("script")[0],v,y=false,D=function(){x.src="";x.onerror=x.onload=x.onreadystatechange=null;x.parentNode.removeChild(x);x=null;a("_eventInactived");B()};if(C){v=setTimeout(function(){D()},C)}x.type=A||"text/javascript";x.async=w;x.onload=x.onreadystatechange=function(G,F){if(!y&&(!x.readyState||/loaded|complete/.test(x.readyState))){y=true;if(C){clearTimeout(v)}x.src="";x.onerror=x.onload=x.onreadystatechange=null;x.parentNode.removeChild(x);x=null;if(!F){setTimeout(function(){E()},200)}}};x.onerror=function(H,G,F){if(C){clearTimeout(v)}D();return true};x.src=u;z.parentNode.insertBefore(x,z)};a("_eventPreload");m(h);n(r,"text/javascript",false,3000)})(this,this.document,"className","jf-loading","jf-active","jf-inactive","//ds.justfont.com/js/stable/v/4.7/id/119794050681");</script>
+
   <body>
     <?php include_once("analyticstracking.php") ?>
     <?php include_once("navbar.php") ?>
@@ -46,13 +46,7 @@
           <button type="button" class="close" data-dismiss="alert"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
           <strong>系統訊息：</strong> 目前由103學年課綱逐步建立資料，將盡速完成至99學年度之課程綱要。
           </div>
-          <!--
-          <div class="alert alert-success fade in" role="alert">
-          <button type="button" class="close" data-dismiss="alert"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
-          <strong>目前有的社團活動：</strong> 管樂社 <a href="https://www.facebook.com/groups/ntue107/permalink/1517522428459400/"><font size:13px>-08.23 嘉義管樂節 熱血報名中 </font></a></br>
-          
-          </div>
-        -->
+
           <div class="jumbotron">
             <h2>數學暨資訊教育學系 學習地圖</h2>
             <p>這裡可以幫助同學及家長更容易理解自己年度的課程架構...</p>
@@ -71,35 +65,12 @@
               <p><span class="label label-default">宿舍</span> <font size:13px> 8/19-8/25 宿舍上網登錄申請 </font> </p>
             </div><!--/span-->
             <div class="col-6 col-sm-6 col-lg-4">
-              <h2>各系公告</h2>
-              <p><span class="label label-primary">系統</span> <font size:13px>-08.12 我是測試消息，不要理我 </font> </p>
-              
-              <p><span class="label label-warning">教育系</span> <font size:13px>-08.12 早安早安你好嗎 </font> </p>
-              <p><span class="label label-default">語創系</span> <font size:13px>-08.12 標題不含日期有十一個字 </font> </p>
-              <p><span class="label label-success">藝設系</span> <font size:13px>-08.12 其實我是放來充版面的 </font> </p>
-              
-            </div><!--/span-->
-            <div class="col-6 col-sm-6 col-lg-4">
-              <h2>各系活動</h2>
-              <p><span class="label label-primary">數資系</span> <font size:13px>-08.20 我是測試消息，不要理我 </font> </p>
-              <p><span class="label label-warning">教育系</span> <font size:13px>-08.19 早安早安你好嗎 </font> </p>
-              <p><span class="label label-default">語創系</span> <font size:13px>-08.19 標題不含日期有十一個字 </font> </p>
-              <p><a class="btn btn-default" href="#" role="button">查看更多 &raquo;</a></p>
-            </div><!--/span-->
-            <div class="col-6 col-sm-6 col-lg-4">
-              <h2>社團活動</h2>
-
-              <p><span class="label label-danger">管樂社</span> <a href="https://www.facebook.com/groups/ntue107/permalink/1517522428459400/"><font size:13px>-08.23 嘉義管樂節 熱血報名中 </font></a> </p>
-              <p><span class="label label-primary">數資系</span> <font size:13px>-08.20 一二三四五六七八九零零 </font> </p>
-              <p><span class="label label-default">語創系</span> <font size:13px>-08.19 標題不含日期有十一個字 </font> </p>
-              <p><a class="btn btn-default" href="#" role="button">查看更多 &raquo;</a></p>
-            </div><!--/span-->
-            <div class="col-6 col-sm-6 col-lg-4">
               <h2>About</h2>
               <p>其實我也不知道為甚麼想做這個，大概是太無聊了吧？雖然我很命苦的在暑修ing...
                 但是看不下去時，會想做點不同的東西來呈現出來...</p>
-              
+
             </div><!--/span-->
+
           </div><!--/row-->
         </div><!--/span-->
 
@@ -120,11 +91,9 @@
         </div><!--/span-->
       </div><!--/row-->
 
-      <hr>
+    
 
-      <footer>
-        <?php include_once("footer.php") ?>
-      </footer>
+
 
     </div><!--/.container-->
 
@@ -136,5 +105,6 @@
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
     <script src="js/bootstrap.min.js"></script>
     <script src="js/offcanvas.js"></script>
+
   </body>
 </html>
