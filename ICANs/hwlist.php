@@ -40,21 +40,46 @@
             <div class="inner">
               <h3 class="masthead-brand">e0u‧ICAN 作業輔助上傳系統</h3>
               <ul class="nav masthead-nav">
-                <li class="active"><a href="#">Home</a></li>
+                <li class><a href="#">Home</a></li>
                 <li class><a href="#">會員資訊</a></li>
-                <li class><a href="hwlist.php">作業總覽</a></li>
+                <li class="active"><a href="#">作業總覽</a></li>
                 <li class><a href="#">課程總覽</a></li>
               </ul>
             </div>
           </div>
 
           <div class="inner cover">
-            <h1 class="cover-heading">讓 ICAN'T 變成ICAN 一點都不難！</h1>
-            <p class="lead">1 2 3 三步驟，在同一個網頁，馬上就完成作業上傳！</p>
-            <p class="lead">Coming Soon...</p>
-            <p class="lead">
-              <a href="https://www.facebook.com/dreammner.li" class="btn btn-lg btn-default">About Me</a>
-            </p>
+            <table class="table">
+   <caption>作業總覽</caption>
+   <thead>
+      <tr >
+         <td>科目名稱</td>
+         <td>作業名稱</td>
+         <td>狀態</td>
+      </tr>
+   </thead>
+   <tbody>
+      <tr>
+         <td>生涯發展教育</td>
+         <td>心得討論</td>
+         <td>
+         <button type="button" class="btn btn-success" data-toggle="button"> 已上傳 </button>
+       </td>
+      </tr>
+      <tr>
+         <td>教育概論</td>
+         <td>電影心得</td>
+         <td>
+          <button type="button" class="btn btn-primary" data-toggle="button"> 未上傳 </button>
+          </td>
+      </tr>
+      <tr>
+         <td>文學賞讀</td>
+         <td>影片心得</td>
+         <td><button type="button" class="btn btn-danger" data-toggle="button"> 已逾期 </button></td>
+      </tr>
+   </tbody>
+</table>
           </div>
 
           <div class="mastfoot">

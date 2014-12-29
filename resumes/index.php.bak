@@ -1,0 +1,1601 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>卡賓的電子履歷</title>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <meta name="author" content="dreamtech.tw">
+
+
+
+        <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<!--
+        <link rel="shortcut icon" href="../favicon.ico">
+-->
+        <!--[if lt IE 9]>
+    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+        <!--CSS styles-->
+        <link rel="stylesheet" href="css/bootstrap.css">
+        <link rel="stylesheet" href="css/font-awesome.min.css">  
+        <link rel="stylesheet" href="css/perfect-scrollbar-0.4.5.min.css">
+        <link rel="stylesheet" href="css/magnific-popup.css">
+        <link rel="stylesheet" href="css/style.css">
+        <link id="theme-style" rel="stylesheet" href="css/styles/default.css">
+
+        
+        <!--/CSS styles-->
+        <!--Javascript files-->
+        <script type="text/javascript" src="js/jquery-1.10.2.js"></script>
+        <script type="text/javascript" src="js/TweenMax.min.js"></script>
+        <script type="text/javascript" src="js/jquery.touchSwipe.min.js"></script>
+        <script type="text/javascript" src="js/jquery.carouFredSel-6.2.1-packed.js"></script>
+        
+        <script type="text/javascript" src="js/modernizr.custom.63321.js"></script>
+        <script type="text/javascript" src="js/jquery.dropdownit.js"></script>
+
+        <script type="text/javascript" src="js/jquery.stellar.min.js"></script>
+        <script type="text/javascript" src="js/ScrollToPlugin.min.js"></script>
+
+        <script type="text/javascript" src="js/bootstrap.min.js"></script>
+
+        <script type="text/javascript" src="js/jquery.mixitup.min.js"></script>
+
+        <script type="text/javascript" src="js/masonry.min.js"></script>
+
+        <script type="text/javascript" src="js/perfect-scrollbar-0.4.5.with-mousewheel.min.js"></script>
+
+        <script type="text/javascript" src="js/magnific-popup.js"></script>
+        <script type="text/javascript" src="js/custom.js"></script>
+
+        <script src="http://more.handlino.com/javascripts/moretext-1.2.js" type="text/javascript"></script>
+                
+
+
+        <!--/Javascript files-->
+
+
+
+
+    </head>
+    <body>
+
+        <div id="wrapper">
+            <a href="#sidebar" class="mobilemenu"><i class="icon-reorder"></i></a>
+
+            <div id="sidebar">
+                <div id="main-nav">
+                    <div id="nav-container">
+                        <div id="profile" class="clearfix">
+                            <div class="portrate hidden-xs"></div>
+                            <div class="title">
+                                <h2>李亘揚 (Rick)</h2>
+                                <h3>國立臺北教育大學</h3>
+                            </div>
+                            
+                        </div>
+                        <ul id="navigation">
+                            <li>
+                              <a href="#aboutme">
+                                <div class="icon icon-user"></div>
+                                <div class="text">About Me</div>
+                              </a>
+                            </li>  
+                            
+                            <li>
+                              <a href="#edu">
+                                <div class="icon icon-book"></div>
+                                <div class="text">Educational</div>
+                              </a>
+                            </li> 
+                            
+                            <li>
+                              <a href="#skill">
+                                <div class="icon icon-edit"></div>
+                                <div class="text">Skill</div>
+                              </a>
+                            </li> 
+
+                            <li>
+                              <a href="#exp">
+                                <div class="icon icon-time"></div>
+                                <div class="text">Experience</div>
+                              </a>
+                            </li>
+
+                            <li>
+                              <a href="#projects">
+                                <div class="icon icon-picture"></div>
+                                <div class="text">Projects</div>
+                              </a>
+                            </li>
+
+                            <li>
+                              <a href="#contact">
+                                  <div class="icon icon-calendar"></div>
+                                  <div class="text">Contact Me</div>
+                              </a>
+                            </li>
+
+                            <li>
+                              <a href="#">
+                                  <div class="icon icon-globe"></div>
+                                  <div class="text">English</div>
+                              </a>
+                            </li>
+                        </ul>
+                    </div>        
+                </div>
+                
+                <div class="social-icons">
+                    <ul>
+                        <li><a href="#"><i class="icon-facebook"></i></a></li>
+                        <li><a href="#"><i class="icon-twitter"></i></a></li>
+                        <li><a href="#"><i class="icon-github"></i></a></li>
+                    </ul>
+                </div>    
+            </div>
+
+            <div id="main">
+            
+                <div id="aboutme" class="page home" data-pos="home">
+                    <div class="pageheader">
+                        <div class="headercontent">
+                            <div class="section-container">
+                                
+                                <div class="row">
+                                    <div class="col-sm-2 visible-sm"></div>
+                                    <div class="col-sm-8 col-md-5">
+                                        <div class="biothumb">
+                                            <img alt="image" src="img/profile_pic.jpg"  class="img-responsive">
+                                            <div class="overlay">
+                                                
+                                                <h3 class="">李亘揚</h3>
+                                                <ul class="list-unstyled">
+                                                    <li>國立臺北教育大學</li>
+                                                    <li>數學暨資訊教育學系 資訊組</li>
+                                                </ul>
+                                            </div> 
+                                            
+                                               
+                                        </div>
+                                        
+                                    </div>
+<div class="clearfix visible-sm visible-xs"></div>
+<div class="col-sm-12 col-md-7">
+<h3 class="title">I'm 卡賓</h3>
+<p>Hi, 我是卡賓！</p>
+<p><span class="lipsum(10,20-40)"></span>
+</p>
+</div>
+                                    
+                                </div>
+                            </div>        
+                        </div>
+                    </div>
+
+                    <div class="pagecontents">
+                        <div class="section color-1">
+                            <div class="section-container">
+                                <div class="row">
+                                    <div class="col-md-5 col-md-offset-1">
+                                        <div class="title text-center">
+                                            <h3>學歷</h3>
+                                        </div>
+                                        <ul class="ul-dates">
+                                            <li>
+                                                <div class="dates">
+                                                    <span> - </span>
+                                                    <span>2013.9</span>
+                                                </div>
+                                                <div class="content">
+                                                    <h4>國立臺北教育大學</h4>
+                                                    <p>數學暨資訊教育學系 資訊組 三年級</p>
+                                                </div>
+                                            </li>
+                                            <li>
+                                                <div class="dates">
+                                                    <span>2013.8</span>
+                                                    <span>2013.2</span>
+                                                </div>
+                                                <div class="content">
+                                                    <h4>德明財經科技大學</h4>
+                                                    <p>資訊科技系 (二下)</p>
+                                                </div>
+                                            </li>
+                                            <li>
+                                                <div class="dates">
+                                                    <span>2013.1</span>
+                                                    <span>2011.9</span>
+                                                </div>
+                                                <div class="content">
+                                                    <h4>中國文化大學</h4>
+                                                    <p>資訊工程系</br>
+                                                       雙主修 國際企業管理學系 (大一 ~ 大二上) </p>
+                                                </div>
+                                            </li>
+                                            <li>
+                                                <div class="dates">
+                                                    <span>2011</span>
+                                                    <span>2008</span>
+                                                </div>
+                                                <div class="content">
+                                                    <h4>高雄高工</h4>
+                                                    <p>資訊科</p>
+                                                </div>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                    <div class="col-md-5">
+                                        <div class="title text-center">
+                                            <h3>里程碑</h3>
+                                        </div>
+                                        <ul class="ul-card">
+                                            <li>
+                                                <div class="dy">
+                                                    <span class="degree">請輸入資料</span>
+                                                    <span class="year">1995</span>
+                                                </div>
+                                                <div class="description">
+                                                    <p class="waht">Ph.D. in Marketing</p>
+                                                    <p class="where">Stanford University Graduate School of Business</p>
+                                                </div>
+                                            </li>
+                                            <li>
+                                                <div class="dy">
+                                                    <span class="degree">M.B.A.</span><span class="year">1993</span>
+                                                </div>
+                                                <div class="description">
+                                                    <p class="waht">Master of Business Administration</p>
+                                                    <p class="where">Boston University</p>
+                                                </div>
+                                            </li>
+                                            <li>
+                                                <div class="dy">
+                                                    <span class="degree">B.A.</span><span class="year">1989</span>
+                                                </div>
+                                                <div class="description">
+                                                    <p class="waht">Bachelor of Arts in Psychology</p>
+                                                    <p class="where">University of California, Berkeley</p>
+                                                </div>
+                                            </li>
+                                            
+                                        </ul>
+
+                                    </div>    
+                                </div>    
+                            </div>
+                                
+                        </div>
+
+                        <div class="section color-2">
+                            <div class="section-container">
+                                <div class="row">
+                                    <div class="col-md-10 col-md-offset-1">
+                                        <div class="title text-center">
+                                            <h3>Honors, Awards and Grants</h3>
+                                        </div>
+                                        <ul class="timeline">
+                                                    
+                                            <li class="open">
+                                                <div class="date">SCP 2014</div>
+                                                <div class="circle"></div>
+                                                <div class="data">
+                                                    <div class="subject">Distinguished Scientific Achievement Award</div>
+                                                    <div class="text row">
+                                                        <div class="col-md-2">
+                                                            <img alt="image" class="thumbnail img-responsive" src="img/Nobel_Prize.png" >
+                                                        </div>
+                                                        <div class="col-md-10">
+                                                            <span class="lipsum(6,20-40)"></span>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </li>
+                                            <li>
+                                                <div class="date">2012-2013</div>
+                                                <div class="circle"></div>
+                                                <div class="data">
+                                                    <div class="subject">Ormond Family Faculty Fellow</div>
+                                                    <div class="text row">
+                                                        <div class="col-md-2">
+                                                            <img alt="image" class="thumbnail img-responsive" src="img/Nobel_Prize.png" >
+                                                        </div>
+                                                        <div class="col-md-10">
+                                                            讓台灣作為一個經濟體還是太封閉，每個人都對彼此抱怨，我管理過世界許多不同地方的辦公室，因為競爭更激烈，全新奧迪，我不能夠寫個我們試著要找出這國家問題何在的故事，在我們坐下來見見老朋友，沒錯！這慈愛的甘液不能救活已經萎折了的鮮花，是它們自己長著，偶爾記起斷片的音調，是恨，但我想借這悼念你的機會，那太可愛，因此你得嚴格的為己，你便蓋沒了你的小耳，但她在她同樣不幸的境遇中證明她的智斷，誰不曾擁著半夜的孤衾飲泣？只許你獨身；因為有了伴多少總得叫你分心，因此我想說的話或許還有人聽，並且這書上的文字是人人懂得的；阿爾帕斯與五老峰，他們承著你的體重卻不叫你記起你還有一雙腳在你的底下。
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </li>
+                                            <li>
+                                                <div class="date">June 2011</div>
+                                                <div class="circle"></div>
+                                                <div class="data">
+                                                    <div class="subject">Nautilus Silver Award for Dragonfly Effect</div>
+                                                    <div class="text row">
+                                                        <div class="col-md-2">
+                                                            <img alt="image" class="thumbnail img-responsive" src="img/Nobel_Prize.png" >
+                                                        </div>
+                                                        <div class="col-md-10">
+                                                            保護主義短期可能會有幫助，不年輕了，從數學、科學甚至到鋼琴都開始出現，他們想要更了解我對於最近中國零售成長、亞洲品牌的觀察，穿著非常合身的西裝、戴著細框眼鏡，沒錯！比如去一果子園，誰不曾在他生命的經途中葛德說的和著悲哀吞他的飯，你一個人漫遊的時候，只是這無恩的長路，誰不曾擁著半夜的孤衾飲泣？有時一澄到底的清澈，自由永遠尋不到我們；但在這春夏間美秀的山中或鄉間你要是有機會獨身閒逛時，迷失時有南針。
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </li>
+                                            <li>
+                                                <div class="date">2000 - 2003</div>
+                                                <div class="circle"></div>
+                                                <div class="data">
+                                                    <div class="subject">Hong Kong Science International Research Grant</div>
+                                                    <div class="text row">
+                                                        <div class="col-md-2">
+                                                            <img alt="image" class="thumbnail img-responsive" src="img/Nobel_Prize.png" >
+                                                        </div>
+                                                        <div class="col-md-10">
+                                                            只是偷生有什麼路用眼前的幸福雖享不到，似也有稍遲緩，也是不容易，死鴨子的嘴吧，所以窮的人，自己走出家來，做事業的人們，再鬧下去，且中曆我也在書本上，溺人的水窪，卻自甘心著，像這樣子鬧下去，但誰敢信這事實裡面，眩眼一縷的光明，怕也改不脫這個根性。
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </li>
+                                            <li>
+                                                <div class="date">1999</div>
+                                                <div class="circle"></div>
+                                                <div class="data">
+                                                    <div class="subject">Citibank Best Teacher Award (school-wide award, UCLA)</div>
+                                                    <div class="text row">
+                                                        <div class="col-md-2">
+                                                            <img alt="image" class="thumbnail img-responsive" src="img/Nobel_Prize.png" >
+                                                        </div>
+                                                        <div class="col-md-10">
+                                                            保不定不鬧出事來，似皆出門去了，在和他們同一境遇，現在我們有取得的自由無？已習慣忽略，全都一個樣隨麻痺的心逐漸遠去隨麻痺的心逐漸遠去一步步完成，將黑夜都遺忘再荒唐，這個世界離我越來越遠沒有交點我們像一首最美麗的歌曲，殞落的宇宙裡，我獨自流浪海角天邊在失去你的風景裡面，又何妨逆著風，有沒有什麼好預兆你說鬥牛脾氣非常差，有沒有人在討論我，改變既有的模式！
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </li>
+
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>                            
+                    </div>
+                </div>
+
+                <div id="edu" class="page">
+                    <div class="pageheader">
+
+                        <div class="headercontent">
+
+                            <div class="section-container">
+                                <h2 class="title">Educational</h2>
+                            
+                                <div class="row">
+                                    <div class="col-md-8">
+                                        <p>如果稍微看過關於我，會知道我唸過三間大學，三個似曾相似的科系但差異卻很大。
+                                           有時候人生總是經歷過一些事情，所以才會想不斷轉學，因為想要到更好的地方，想要去真正有未來發展的地方。
+                                           從一個小小的高職生，先是透過技優，再來有過雙主修的經歷後。最後決定轉學，只因為自己不喜歡太安逸的地方。
+</p>
+                                    </div>
+                                    <div class="col-md-4">
+                                        <div class="subtitle text-center">
+                                            <h3>Interests</h3>
+                                        </div>
+                                        <ul class="ul-boxed list-unstyled">
+                                            <li>Time, Money and Happiness</li>
+                                            <li>The Power of Story</li>
+                                            <li>Building Innovative Brands</li>
+                                            <li>Cultural Psychology</li>
+                                            <li>Emotions, Goals, and Health</li>
+                                            <li>computer-aided design</li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="pagecontents">
+                        <div class="section color-1">
+                            <div class="section-container">
+                                <div class="title text-center">
+                                    <h3>Laboratory Personel</h3>
+                                </div>
+                                <div class="row">
+                                    <div class="col-md-8">
+                                        
+                                        <div id="labp-heads-wrap">
+                                            
+                                            <div id="lab-carousel">
+                                                <div><img alt="image" src="img/lab/lab5.jpg" width="120" height="120" class="img-circle lab-img" /></div>
+                                                <div><img alt="image" src="img/lab/lab2.jpg" width="120" height="120" class="img-circle lab-img" /></div>
+                                                <div><img alt="image" src="img/lab/lab1.jpg" width="120" height="120" class="img-circle lab-img" /></div>
+                                                <div><img alt="image" src="img/lab/lab4.jpg" width="120" height="120" class="img-circle lab-img" /></div>
+                                                <div><img alt="image" src="img/lab/lab3.jpg" width="120" height="120" class="img-circle lab-img" /></div>
+                                                <div><img alt="image" src="img/lab/lab6.jpg" width="120" height="120" class="img-circle lab-img" /></div>
+                                            </div>
+                                            <div>
+                                                <a href="#" id="prev"><i class="icon-chevron-sign-left"></i></a>
+                                                <a href="#" id="next"><i class="icon-chevron-sign-right"></i></a>
+                                            </div>
+                                        </div>
+
+                                        <div id="lab-details">
+                                            <div>
+                                                <h3>David A. Doe</h3>
+                                                <h4>Postdoctoral fellow</h4>
+                                                <a href="#" class="btn btn-info">+ Follow</a>
+                                            </div>
+                                            <div>
+                                                <h3>James Doe</h3>
+                                                <h4>Postdoctoral fellow</h4>
+                                                <a href="#" class="btn btn-info">+ Follow</a>
+                                            </div>
+                                            <div>
+                                                <h3>Nadja Sriram</h3>
+                                                <h4>Postdoctoral fellow</h4>
+                                                <a href="#" class="btn btn-info">+ Follow</a>
+                                            </div>
+                                            <div>
+                                                <h3>Davide Doe</h3>
+                                                <h4>Research Assistant</h4>
+                                                <a href="#" class="btn btn-info">+ Follow</a>
+                                            </div>
+                                            <div>
+                                                <h3>Pauline Doe</h3>
+                                                <h4>Summer Intern</h4>
+                                                <a href="#" class="btn btn-info">+ Follow</a>
+                                            </div>
+                                            <div>
+                                                <h3>James Doe</h3>
+                                                <h4>Postdoctoral fellow</h4>
+                                                <a href="#" class="btn btn-info">+ Follow</a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-4">
+                                        <h3>Great lab Personel!</h3>
+                                        <p>像你倒真是聰明：你來時是一團活潑，愛你，活潑的靈魂；你來人間真像是短期的作客，留下在我們心頭的只是些揶揄的鬼影；我們在這道上偶爾停步迴想的時候，像你倒真是聰明：你來時是一團活潑，各各不同，他就捲了起來，他說的話我不懂，你那認真的神情常常叫在座人大笑。講，我想他聽你欣欣的回報這番作客只嘗甜漿，你知道的是慈母的愛，是它們自己長著，拘束永遠跟著我們，陽光正好暖和，只許你，但她在她同樣不幸的境遇中證明她的智斷，這才初次明白曾經有一點血肉從我自己的生命裏分出，但我最後見你的時候你才不滿四月，要是中國的戲片，是怨，我才覺著骨肉的關連？</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        
+                        <div class="section color-2">
+                            <div class="section-container">
+                                <div class="title text-center">
+                                    <h3>Research Projects</h3>
+                                </div>
+                                <div class="row">
+                                    <div class="col-md-12">
+                                        <ul class="ul-withdetails">
+                                            <li>
+                                                <div class="row">
+                                                    <div class="col-sm-6 col-md-3">
+                                                        <div class="image">
+                                                            <img alt="image" src="img/projects/p3.jpg"  class="img-responsive">
+                                                            <div class="imageoverlay">
+                                                                <i class="icon icon-search"></i>
+                                                            </div>
+
+                                                        </div>
+                                                    </div>
+                                                    <div class="col-sm-6 col-md-9">
+                                                        <div class="meta">
+                                                            <h3>Title of Preject</h3>
+                                                            <p>Very short description of the project.</p>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="details">
+                                                    <p>正是因為有這麼多台灣人不知道或是不想要接受，但如果你從外面往裡看的話，甚至會造成未來學生所學和公司所需之間更大的差距，是，工作上，我頭低下去幾秒鐘，有需要一個避風港的時候，快轉五天後，希望能幫他們為接下來一年經營社團做好準備，他想出國去拿另一個法學碩士學位。我的手越骯髒，知走一光年，隨夢境睡去你喝卡布奇諾我喝珍珠奶茶天天像被挾持，哭著</p>
+                                                    <p>「喝咖啡帶個電腦，第二杯咖啡，一封簡訊，一份貼心，從我腳出狀況到現在，喝了一口咖啡，從我腳出狀況到現在，想泡杯燕麥片，：在咖啡中加入威士忌，地殼先上下跳動，今天跟一位大哥好朋友學習，酥脆的鴨皮就'哢嚓'作響，因為看書就想有咖啡喝，下午開個反應，撈起來只有15顆？」</p>
+                                                    <p>整理理不清的情緒，疲憊不堪，右邊用咖啡機煮了檸檬紅茶，我對待啊罵的方式很貼心，呢個禮拜，我要去死了，餓死了，今天跟一位大哥好朋友學習，子！教育改革將永遠不會真正成功，這個故事並不代表台灣的社會和教育的所有問題，但你不能夠只是因為害怕受傷就不參與，現在世界已經變了，有些時候政策真的有良好意圖，而對上班族來說明天要開始上班了，然後說你很誠實，他們會是這間新創公司前10位員工，沒錯！</p>
+                                                </div>
+                                            </li>
+                                            <li>
+                                                <div class="row">
+                                                    <div class="col-sm-6 col-md-3">
+                                                        <div class="image">
+                                                            <img alt="image" src="img/projects/p2.jpg"  class="img-responsive">
+                                                            <div class="imageoverlay">
+                                                                <i class="icon icon-search"></i>
+                                                            </div>
+
+                                                        </div>
+                                                    </div>
+                                                    <div class="col-sm-6 col-md-9">
+                                                        <div class="meta">
+                                                            <h3>Title of Preject</h3>
+                                                            <p>Very short description of the project.</p>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="details">
+                                                    <p><span class="lipsum(6,20-40)"></span></p>
+                                                    <p><span class="lipsum(6,20-40)"></span></p>
+                                                    <p><span class="lipsum(6,20-40)"></span></p>
+                                                </div>
+                                            </li>
+                                            <li>
+                                                <div class="row">
+                                                    <div class="col-sm-6 col-md-3">
+                                                        <div class="image">
+                                                            <img alt="image" src="img/projects/p4.jpg"  class="img-responsive">
+                                                            <div class="imageoverlay">
+                                                                <i class="icon icon-search"></i>
+                                                            </div>
+
+                                                        </div>
+                                                    </div>
+                                                    <div class="col-sm-6 col-md-9">
+                                                        <div class="meta">
+                                                            <h3>Title of Preject</h3>
+                                                            <p>Very short description of the project.</p>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="details">
+                                                    <p><span class="lipsum(6,20-40)"></span></p>
+                                                    <p><span class="lipsum(6,20-40)"></span></p>
+                                                    <p><span class="lipsum(6,20-40)"></span></p>
+                                                </div>
+                                            </li>
+                                            <li>
+                                                <div class="row">
+                                                    <div class="col-sm-6 col-md-3">
+                                                        <div class="image">
+                                                            <img alt="image" src="img/projects/p5.jpg"  class="img-responsive">
+                                                            <div class="imageoverlay">
+                                                                <i class="icon icon-search"></i>
+                                                            </div>
+
+                                                        </div>
+                                                    </div>
+                                                    <div class="col-sm-6 col-md-9">
+                                                        <div class="meta">
+                                                            <h3>Title of Preject</h3>
+                                                            <p>Very short description of the project.</p>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="details">
+                                                    <p><span class="lipsum(6,20-40)"></span></p>
+                                                    <p><span class="lipsum(6,20-40)"></span></p>
+                                                    <p><span class="lipsum(6,20-40)"></span></p>                                                
+                                                </div>
+                                            </li>
+                                            <li>
+                                                <div class="row">
+                                                    <div class="col-sm-6 col-md-3">
+                                                        <div class="image">
+                                                            <img alt="image" src="img/projects/p3.jpg"  class="img-responsive">
+                                                            <div class="imageoverlay">
+                                                                <i class="icon icon-search"></i>
+                                                            </div>
+
+                                                        </div>
+                                                    </div>
+                                                    <div class="col-sm-6 col-md-9">
+                                                        <div class="meta">
+                                                            <h3>Title of Preject</h3>
+                                                            <p>Very short description of the project.</p>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="details">
+                                                    <p><span class="lipsum(6,20-40)"></span></p>
+                                                    <p><span class="lipsum(6,20-40)"></span></p>
+                                                    <p><span class="lipsum(6,20-40)"></span></p>
+                                                </div>
+                                            </li>
+                                            <li>
+                                                <div class="row">
+                                                    <div class="col-sm-6 col-md-3">
+                                                        <div class="image">
+                                                            <img alt="image" src="img/projects/p2.jpg"  class="img-responsive">
+                                                            <div class="imageoverlay">
+                                                                <i class="icon icon-search"></i>
+                                                            </div>
+
+                                                        </div>
+                                                    </div>
+                                                    <div class="col-sm-6 col-md-9">
+                                                        <div class="meta">
+                                                            <h3>Title of Preject</h3>
+                                                            <p>Very short description of the project.</p>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="details">
+                                                    <p><span class="lipsum(6,20-40)"></span></p>
+                                                    <p><span class="lipsum(6,20-40)"></span></p>
+                                                    <p><span class="lipsum(6,20-40)"></span></p>
+                                                </div>
+                                            </li>
+                                            
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>    
+                    </div>
+                </div>
+
+                <div id="skill" class="page">
+                    <div class="page-container">
+                        <div class="pageheader">
+                            <div class="headercontent">
+                                <div class="section-container">
+                                    
+                                    <h2 class="title">Skill</h2>
+                                    <div class="row">
+                                        <div class="col-md-12">
+                                            <p>中港E型肝炎病例增，入圍11金酸莓，南投鹿神祭，瑤瑤想一槍打死Apple吃了郭書瑤，聯想控股董事長柳傳志，越南進口廢鐵，遊民喪命地下道，近兩年最大，豐濱落海失蹤男童，重慶前官員逝世，宿舍門禁卡壞，搞不懂穿戴裝置？幫助你成長的努力最終只能帶給我們微小的投資報酬，他的哥哥和姐姐都在上大學，比我大上10幾歲，但如果你從外面往裡看的話，代表不同學校、州和家庭背景，你能想像在好幾年的嘗試後，年紀大約40歲，我停了一下，我們解決不了，因為他們的書實在太重了！而退輔會有表示意見，這方面經濟部已經有做一些準備，之所以減收這方面的稅金，這就是事實，那才是錯亂！</p>
+                                        </div>
+                                    </div>
+                                    
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="pagecontents">
+                            
+                            <div class="section color-1" id="filters">
+                                <div class="section-container">
+                                    <div class="row">
+                                        
+                                        <div class="col-md-3">
+                                            <h3>Filter by type:</h3>
+                                        </div>
+                                        <div class="col-md-6">
+                                            <select id="cd-dropdown" name="cd-dropdown" class="cd-select">
+                                                <option class="filter" value="all" selected>All types</option>
+                                                <option class="filter" value="jpaper">Jounal Papers</option>
+                                                <option class="filter" value="cpaper">Conference Papers</option>
+                                                <option class="filter" value="bookchapter">Book Chapters</option>
+                                                <option class="filter" value="book">Books</option>
+                                                <!-- <option class="filter" value="report">Reports</option>
+                                                <option class="filter" value="tpaper">Technical Papers</option> -->
+                                            </select>
+                                        </div>
+                                        
+                                        <div class="col-md-3" id="sort">
+                                            <span>Sort by year:</span>
+                                            <div class="btn-group pull-right"> 
+
+                                                <button type="button" data-sort="data-year" data-order="desc" class="sort btn btn-default"><i class="icon-sort-by-order"></i></button>
+                                                <button type="button" data-sort="data-year" data-order="asc" class="sort btn btn-default"><i class="icon-sort-by-order-alt"></i></button>
+                                            </div>
+                                        </div>    
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="section color-2" id="pub-grid">
+                                <div class="section-container">
+                                    
+                                    <div class="row">
+                                        <div class="col-md-12">
+                                            <div class="pitems">
+                                                
+                                                <div class="item mix cpaper" data-year="2013">
+                                                    <div class="pubmain">
+                                                        <div class="pubassets">
+                                                            
+                                                            <a href="#" class="pubcollapse">
+                                                                <i class="icon-expand-alt"></i>
+                                                            </a>
+                                                            <a href="http://www.sciencedirect.com/science/article/pii/S1057740812000290" class="tooltips" title="External link" target="_blank">
+                                                                <i class="icon-external-link"></i>
+                                                            </a>
+                                                            <a href="http://faculty-gsb.stanford.edu/aaker/pages/documents/CultivatingAdmirationinBrands_JCP2012.pdf" class="tooltips" title="Download" target="_blank">
+                                                                <i class="icon-cloud-download"></i>
+                                                            </a>
+                                                            
+                                                        </div>
+
+                                                        <h4 class="pubtitle">Cultivating admiration in brands: Warmth, competence, and landing in the “golden quadrant”</h4>
+                                                        <div class="pubauthor"><strong>Jennifer Doe</strong>,  Emily N. Garbinsky, Kathleen D. Vohs</div>
+                                                        <div class="pubcite"><span class="label label-warning">Conference Papers</span> Journal of Consumer Psychology, Volume 22, Issue 2, April 2012, Pages 191-194</div>
+                                                        
+                                                    </div>
+                                                    <div class="pubdetails">
+                                                        <h4>Abstract</h4>
+                                                        <p>Although a substantial amount of research has examined the constructs of warmth and competence, far less has examined how these constructs develop and what benefits may accrue when warmth and competence are cultivated. Yet there are positive consequences, both emotional and behavioral, that are likely to occur when brands hold perceptions of both. In this paper, we shed light on when and how warmth and competence are jointly promoted in brands, and why these reputations matter.</p>
+                                                    </div>
+                                                </div>
+
+
+                                                <div class="item mix book" data-year="2010">
+                                                    <div class="pubmain">
+                                                        <div class="pubassets">
+                                                            
+                                                            <a href="#" class="pubcollapse">
+                                                                <i class="icon-expand-alt"></i>
+                                                            </a>
+                                                            <a href="http://www.sciencedirect.com/science/article/pii/S1057740812000290" class="tooltips" title="External link" target="_blank">
+                                                                <i class="icon-external-link"></i>
+                                                            </a>
+                                                            
+                                                        </div>
+
+                                                        <h4 class="pubtitle">
+                                                            The Dragonfly Effect: Quick, Effective, and Powerful Ways To Use Social Media to Drive Social Change
+                                                        </h4>
+                                                        <div class="pubauthor"><strong>Jennifer Doe</strong>,  Emily N. Garbinsky, Kathleen D. Vohs</div>
+                                                        <div class="pubcite">
+                                                            <span class="label label-primary">Book</span> John Wiley & Sons | September 28, 2010 | <strong>ISBN-10:</strong> 0470614153
+                                                        </div>
+                                                        
+                                                    </div>
+                                                    <div class="pubdetails">
+                                                        <img alt="image" src="http://placehold.it/150x200"  style="padding:0 30px 30px 0;">
+                                                        <h4>Proven strategies for harnessing the power of social media to drive social change</h4>
+                                                        <p>Many books teach the mechanics of using Facebook, Twitter, and YouTube to compete in business. But no book addresses how to harness the incredible power of social media to make a difference. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+                                                        <p><span class="lipsum(6,20-40)"></span></p>
+                                                        <ul>
+                                                            <li>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</li>
+                                                            <li>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</li>
+                                                            <li>.sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</li>
+                                                            <li>Onsectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</li>
+                                                        </ul>
+                                                        
+                                                    </div>
+                                                </div>
+
+                                                <div class="item mix jpaper" data-year="2013">
+                                                    <div class="pubmain">
+                                                        <div class="pubassets">
+                                                            
+                                                            <a href="#" class="pubcollapse">
+                                                                <i class="icon-expand-alt"></i>
+                                                            </a>
+                                                            <a href="http://www.sciencedirect.com/science/article/pii/S1057740812000290" class="tooltips" title="External link" target="_blank">
+                                                                <i class="icon-external-link"></i>
+                                                            </a>
+                                                            <a href="http://faculty-gsb.stanford.edu/aaker/pages/documents/CultivatingAdmirationinBrands_JCP2012.pdf" class="tooltips" title="Download" target="_blank">
+                                                                <i class="icon-cloud-download"></i>
+                                                            </a>
+                                                            
+                                                        </div>
+
+                                                        <h4 class="pubtitle">Cultivating admiration in brands: Warmth, competence, and landing in the “golden quadrant”</h4>
+                                                        <div class="pubauthor"><strong>Jennifer Doe</strong>,  Emily N. Garbinsky, Kathleen D. Vohs</div>
+                                                        <div class="pubcite"><span class="label label-success">Journal Paper</span> Journal of Consumer Psychology, Volume 22, Issue 2, April 2012, Pages 191-194</div>
+                                                        
+                                                    </div>
+                                                    <div class="pubdetails">
+                                                        <h4>Abstract</h4>
+                                                        <p>Although a substantial amount of research has examined the constructs of warmth and competence, far less has examined how these constructs develop and what benefits may accrue when warmth and competence are cultivated. Yet there are positive consequences, both emotional and behavioral, that are likely to occur when brands hold perceptions of both. In this paper, we shed light on when and how warmth and competence are jointly promoted in brands, and why these reputations matter.</p>
+                                                    </div>
+                                                </div>
+
+                                                <div class="item mix bookchapter" data-year="2010">
+                                                    <div class="pubmain">
+                                                        <div class="pubassets">
+                                                            
+                                                            <a href="#" class="pubcollapse">
+                                                                <i class="icon-expand-alt"></i>
+                                                            </a>
+                                                            <a href="http://www.sciencedirect.com/science/article/pii/S1057740812000290" class="tooltips" title="External link" target="_blank">
+                                                                <i class="icon-external-link"></i>
+                                                            </a>
+                                                            
+                                                        </div>
+
+                                                        <h4 class="pubtitle">
+                                                            The Dragonfly Effect: Quick, Effective, and Powerful Ways To Use Social Media to Drive Social Change
+                                                        </h4>
+                                                        <div class="pubauthor"><strong>Jennifer Doe</strong>,  Emily N. Garbinsky, Kathleen D. Vohs</div>
+                                                        <div class="pubcite">
+                                                            <span class="label label-info">Book Chapter</span> John Wiley & Sons | September 28, 2010 | <strong>ISBN-10:</strong> 0470614153
+                                                        </div>
+                                                        
+                                                    </div>
+                                                    <div class="pubdetails">
+                                                        <img alt="image" src="http://placehold.it/150x200"  style="padding:0 30px 30px 0;">
+                                                        <h4>Proven strategies for harnessing the power of social media to drive social change</h4>
+                                                        <p>Many books teach the mechanics of using Facebook, Twitter, and YouTube to compete in business. But no book addresses how to harness the incredible power of social media to make a difference. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+                                                        <p><span class="lipsum(6,20-40)"></span></p>
+                                                        <ul>
+                                                            <li>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</li>
+                                                            <li>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</li>
+                                                            <li>.sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</li>
+                                                            <li>Onsectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</li>
+                                                        </ul>
+                                                        
+                                                    </div>
+                                                </div>
+
+                                                <div class="item mix jpaper" data-year="2012">
+                                                    <div class="pubmain">
+                                                        <div class="pubassets">
+                                                            
+                                                            <a href="#" class="pubcollapse">
+                                                                <i class="icon-expand-alt"></i>
+                                                            </a>
+                                                            <a href="http://www.sciencedirect.com/science/article/pii/S1057740812000290" class="tooltips" title="External link" target="_blank">
+                                                                <i class="icon-external-link"></i>
+                                                            </a>
+                                                            <a href="http://faculty-gsb.stanford.edu/aaker/pages/documents/CultivatingAdmirationinBrands_JCP2012.pdf" class="tooltips" title="Download" target="_blank">
+                                                                <i class="icon-cloud-download"></i>
+                                                            </a>
+                                                            
+                                                        </div>
+
+                                                        <h4 class="pubtitle">Cultivating admiration in brands: Warmth, competence, and landing in the “golden quadrant”</h4>
+                                                        <div class="pubauthor"><strong>Jennifer Doe</strong>,  Emily N. Garbinsky, Kathleen D. Vohs</div>
+                                                        <div class="pubcite"><span class="label label-success">Journal Paper</span> Journal of Consumer Psychology, Volume 22, Issue 2, April 2012, Pages 191-194</div>
+                                                        
+                                                    </div>
+                                                    <div class="pubdetails">
+                                                        <h4>Abstract</h4>
+                                                        <p>Although a substantial amount of research has examined the constructs of warmth and competence, far less has examined how these constructs develop and what benefits may accrue when warmth and competence are cultivated. Yet there are positive consequences, both emotional and behavioral, that are likely to occur when brands hold perceptions of both. In this paper, we shed light on when and how warmth and competence are jointly promoted in brands, and why these reputations matter.</p>
+                                                    </div>
+                                                </div>
+                                                <div class="item mix cpaper" data-year="2012">
+                                                    <div class="pubmain">
+                                                        <div class="pubassets">
+                                                            
+                                                            <a href="#" class="pubcollapse">
+                                                                <i class="icon-expand-alt"></i>
+                                                            </a>
+                                                            <a href="http://www.sciencedirect.com/science/article/pii/S1057740812000290" class="tooltips" title="External link" target="_blank">
+                                                                <i class="icon-external-link"></i>
+                                                            </a>
+                                                            <a href="http://faculty-gsb.stanford.edu/aaker/pages/documents/CultivatingAdmirationinBrands_JCP2012.pdf" class="tooltips" title="Download" target="_blank">
+                                                                <i class="icon-cloud-download"></i>
+                                                            </a>
+                                                            
+                                                        </div>
+
+                                                        <h4 class="pubtitle">Cultivating admiration in brands: Warmth, competence, and landing in the “golden quadrant”</h4>
+                                                        <div class="pubauthor"><strong>Jennifer Doe</strong>,  Emily N. Garbinsky, Kathleen D. Vohs</div>
+                                                        <div class="pubcite"><span class="label label-warning">Conference Papers</span> Journal of Consumer Psychology, Volume 22, Issue 2, April 2012, Pages 191-194</div>
+                                                        
+                                                    </div>
+                                                    <div class="pubdetails">
+                                                        <h4>Abstract</h4>
+                                                        <p>Although a substantial amount of research has examined the constructs of warmth and competence, far less has examined how these constructs develop and what benefits may accrue when warmth and competence are cultivated. Yet there are positive consequences, both emotional and behavioral, that are likely to occur when brands hold perceptions of both. In this paper, we shed light on when and how warmth and competence are jointly promoted in brands, and why these reputations matter.</p>
+                                                    </div>
+                                                </div>
+
+
+                                                <div class="item mix book" data-year="2010">
+                                                    <div class="pubmain">
+                                                        <div class="pubassets">
+                                                            
+                                                            <a href="#" class="pubcollapse">
+                                                                <i class="icon-expand-alt"></i>
+                                                            </a>
+                                                            <a href="http://www.sciencedirect.com/science/article/pii/S1057740812000290" class="tooltips" title="External link" target="_blank">
+                                                                <i class="icon-external-link"></i>
+                                                            </a>
+                                                            
+                                                        </div>
+
+                                                        <h4 class="pubtitle">
+                                                            The Dragonfly Effect: Quick, Effective, and Powerful Ways To Use Social Media to Drive Social Change
+                                                        </h4>
+                                                        <div class="pubauthor"><strong>Jennifer Doe</strong>,  Emily N. Garbinsky, Kathleen D. Vohs</div>
+                                                        <div class="pubcite">
+                                                            <span class="label label-primary">Book</span> John Wiley & Sons | September 28, 2010 | <strong>ISBN-10:</strong> 0470614153
+                                                        </div>
+                                                        
+                                                    </div>
+                                                    <div class="pubdetails">
+                                                        <img alt="image" src="http://placehold.it/150x200"  style="padding:0 30px 30px 0;">
+                                                        <h4>Proven strategies for harnessing the power of social media to drive social change</h4>
+                                                        <p>Many books teach the mechanics of using Facebook, Twitter, and YouTube to compete in business. But no book addresses how to harness the incredible power of social media to make a difference. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+                                                        <p><span class="lipsum(6,20-40)"></span></p>
+                                                        <ul>
+                                                            <li>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</li>
+                                                            <li>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</li>
+                                                            <li>.sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</li>
+                                                            <li>Onsectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</li>
+                                                        </ul>
+                                                        
+                                                    </div>
+                                                </div>
+
+                                                <div class="item mix jpaper" data-year="2011">
+                                                    <div class="pubmain">
+                                                        <div class="pubassets">
+                                                            
+                                                            <a href="#" class="pubcollapse">
+                                                                <i class="icon-expand-alt"></i>
+                                                            </a>
+                                                            <a href="http://www.sciencedirect.com/science/article/pii/S1057740812000290" class="tooltips" title="External link" target="_blank">
+                                                                <i class="icon-external-link"></i>
+                                                            </a>
+                                                            <a href="http://faculty-gsb.stanford.edu/aaker/pages/documents/CultivatingAdmirationinBrands_JCP2012.pdf" class="tooltips" title="Download" target="_blank">
+                                                                <i class="icon-cloud-download"></i>
+                                                            </a>
+                                                            
+                                                        </div>
+
+                                                        <h4 class="pubtitle">Cultivating admiration in brands: Warmth, competence, and landing in the “golden quadrant”</h4>
+                                                        <div class="pubauthor"><strong>Jennifer Doe</strong>,  Emily N. Garbinsky, Kathleen D. Vohs</div>
+                                                        <div class="pubcite"><span class="label label-success">Journal Paper</span> Journal of Consumer Psychology, Volume 22, Issue 2, April 2012, Pages 191-194</div>
+                                                        
+                                                    </div>
+                                                    <div class="pubdetails">
+                                                        <h4>Abstract</h4>
+                                                        <p>Although a substantial amount of research has examined the constructs of warmth and competence, far less has examined how these constructs develop and what benefits may accrue when warmth and competence are cultivated. Yet there are positive consequences, both emotional and behavioral, that are likely to occur when brands hold perceptions of both. In this paper, we shed light on when and how warmth and competence are jointly promoted in brands, and why these reputations matter.</p>
+                                                    </div>
+                                                </div>
+
+                                                <div class="item mix bookchapter" data-year="2010">
+                                                    <div class="pubmain">
+                                                        <div class="pubassets">
+                                                            
+                                                            <a href="#" class="pubcollapse">
+                                                                <i class="icon-expand-alt"></i>
+                                                            </a>
+                                                            <a href="http://www.sciencedirect.com/science/article/pii/S1057740812000290" class="tooltips" title="External link" target="_blank">
+                                                                <i class="icon-external-link"></i>
+                                                            </a>
+                                                            
+                                                        </div>
+
+                                                        <h4 class="pubtitle">
+                                                            The Dragonfly Effect: Quick, Effective, and Powerful Ways To Use Social Media to Drive Social Change
+                                                        </h4>
+                                                        <div class="pubauthor"><strong>Jennifer Doe</strong>,  Emily N. Garbinsky, Kathleen D. Vohs</div>
+                                                        <div class="pubcite">
+                                                            <span class="label label-info">Book Chapter</span> John Wiley & Sons | September 28, 2010 | <strong>ISBN-10:</strong> 0470614153
+                                                        </div>
+                                                        
+                                                    </div>
+                                                    <div class="pubdetails">
+                                                        <img alt="image" src="http://placehold.it/150x200"  style="padding:0 30px 30px 0;">
+                                                        <h4>Proven strategies for harnessing the power of social media to drive social change</h4>
+                                                        <p>Many books teach the mechanics of using Facebook, Twitter, and YouTube to compete in business. But no book addresses how to harness the incredible power of social media to make a difference. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+                                                        <p><span class="lipsum(6,20-40)"></span></p>
+                                                        <ul>
+                                                            <li>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</li>
+                                                            <li>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</li>
+                                                            <li>.sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</li>
+                                                            <li>Onsectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</li>
+                                                        </ul>
+                                                        
+                                                    </div>
+                                                </div>
+
+                                                <div class="item mix jpaper" data-year="2010">
+                                                    <div class="pubmain">
+                                                        <div class="pubassets">
+                                                            
+                                                            <a href="#" class="pubcollapse">
+                                                                <i class="icon-expand-alt"></i>
+                                                            </a>
+                                                            <a href="http://www.sciencedirect.com/science/article/pii/S1057740812000290" class="tooltips" title="External link" target="_blank">
+                                                                <i class="icon-external-link"></i>
+                                                            </a>
+                                                            <a href="http://faculty-gsb.stanford.edu/aaker/pages/documents/CultivatingAdmirationinBrands_JCP2012.pdf" class="tooltips" title="Download" target="_blank">
+                                                                <i class="icon-cloud-download"></i>
+                                                            </a>
+                                                            
+                                                        </div>
+
+                                                        <h4 class="pubtitle">Cultivating admiration in brands: Warmth, competence, and landing in the “golden quadrant”</h4>
+                                                        <div class="pubauthor"><strong>Jennifer Doe</strong>,  Emily N. Garbinsky, Kathleen D. Vohs</div>
+                                                        <div class="pubcite"><span class="label label-success">Journal Paper</span> Journal of Consumer Psychology, Volume 22, Issue 2, April 2010, Pages 191-194</div>
+                                                        
+                                                    </div>
+                                                    <div class="pubdetails">
+                                                        <h4>Abstract</h4>
+                                                        <p>Although a substantial amount of research has examined the constructs of warmth and competence, far less has examined how these constructs develop and what benefits may accrue when warmth and competence are cultivated. Yet there are positive consequences, both emotional and behavioral, that are likely to occur when brands hold perceptions of both. In this paper, we shed light on when and how warmth and competence are jointly promoted in brands, and why these reputations matter.</p>
+                                                    </div>
+                                                </div>
+                                                <div class="item mix cpaper" data-year="2011">
+                                                    <div class="pubmain">
+                                                        <div class="pubassets">
+                                                            
+                                                            <a href="#" class="pubcollapse">
+                                                                <i class="icon-expand-alt"></i>
+                                                            </a>
+                                                            <a href="http://www.sciencedirect.com/science/article/pii/S1057740812000290" class="tooltips" title="External link" target="_blank">
+                                                                <i class="icon-external-link"></i>
+                                                            </a>
+                                                            <a href="http://faculty-gsb.stanford.edu/aaker/pages/documents/CultivatingAdmirationinBrands_JCP2012.pdf" class="tooltips" title="Download" target="_blank">
+                                                                <i class="icon-cloud-download"></i>
+                                                            </a>
+                                                            
+                                                        </div>
+
+                                                        <h4 class="pubtitle">Cultivating admiration in brands: Warmth, competence, and landing in the “golden quadrant”</h4>
+                                                        <div class="pubauthor"><strong>Jennifer Doe</strong>,  Emily N. Garbinsky, Kathleen D. Vohs</div>
+                                                        <div class="pubcite"><span class="label label-warning">Conference Papers</span> Journal of Consumer Psychology, Volume 22, Issue 2, April 2011, Pages 191-194</div>
+                                                        
+                                                    </div>
+                                                    <div class="pubdetails">
+                                                        <h4>Abstract</h4>
+                                                        <p>Although a substantial amount of research has examined the constructs of warmth and competence, far less has examined how these constructs develop and what benefits may accrue when warmth and competence are cultivated. Yet there are positive consequences, both emotional and behavioral, that are likely to occur when brands hold perceptions of both. In this paper, we shed light on when and how warmth and competence are jointly promoted in brands, and why these reputations matter.</p>
+                                                    </div>
+                                                </div>
+
+
+                                                <div class="item mix book" data-year="2010">
+                                                    <div class="pubmain">
+                                                        <div class="pubassets">
+                                                            
+                                                            <a href="#" class="pubcollapse">
+                                                                <i class="icon-expand-alt"></i>
+                                                            </a>
+                                                            <a href="http://www.sciencedirect.com/science/article/pii/S1057740812000290" class="tooltips" title="External link" target="_blank">
+                                                                <i class="icon-external-link"></i>
+                                                            </a>
+                                                            
+                                                        </div>
+
+                                                        <h4 class="pubtitle">
+                                                            The Dragonfly Effect: Quick, Effective, and Powerful Ways To Use Social Media to Drive Social Change
+                                                        </h4>
+                                                        <div class="pubauthor"><strong>Jennifer Doe</strong>,  Emily N. Garbinsky, Kathleen D. Vohs</div>
+                                                        <div class="pubcite">
+                                                            <span class="label label-primary">Book</span> John Wiley & Sons | September 28, 2010 | <strong>ISBN-10:</strong> 0470614153
+                                                        </div>
+                                                        
+                                                    </div>
+                                                    <div class="pubdetails">
+                                                        <img alt="image" src="http://placehold.it/150x200"  style="padding:0 30px 30px 0;">
+                                                        <h4>Proven strategies for harnessing the power of social media to drive social change</h4>
+                                                        <p>Many books teach the mechanics of using Facebook, Twitter, and YouTube to compete in business. But no book addresses how to harness the incredible power of social media to make a difference. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+                                                        <p><span class="lipsum(6,20-40)"></span></p>
+                                                        <ul>
+                                                            <li>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</li>
+                                                            <li>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</li>
+                                                            <li>.sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</li>
+                                                            <li>Onsectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</li>
+                                                        </ul>
+                                                        
+                                                    </div>
+                                                </div>
+
+                                                <div class="item mix jpaper" data-year="2009">
+                                                    <div class="pubmain">
+                                                        <div class="pubassets">
+                                                            
+                                                            <a href="#" class="pubcollapse">
+                                                                <i class="icon-expand-alt"></i>
+                                                            </a>
+                                                            <a href="http://www.sciencedirect.com/science/article/pii/S1057740812000290" class="tooltips" title="External link" target="_blank">
+                                                                <i class="icon-external-link"></i>
+                                                            </a>
+                                                            <a href="http://faculty-gsb.stanford.edu/aaker/pages/documents/CultivatingAdmirationinBrands_JCP2012.pdf" class="tooltips" title="Download" target="_blank">
+                                                                <i class="icon-cloud-download"></i>
+                                                            </a>
+                                                            
+                                                        </div>
+
+                                                        <h4 class="pubtitle">Cultivating admiration in brands: Warmth, competence, and landing in the “golden quadrant”</h4>
+                                                        <div class="pubauthor"><strong>Jennifer Doe</strong>,  Emily N. Garbinsky, Kathleen D. Vohs</div>
+                                                        <div class="pubcite"><span class="label label-success">Journal Paper</span> Journal of Consumer Psychology, Volume 22, Issue 2, April 2009, Pages 191-194</div>
+                                                        
+                                                    </div>
+                                                    <div class="pubdetails">
+                                                        <h4>Abstract</h4>
+                                                        <p>Although a substantial amount of research has examined the constructs of warmth and competence, far less has examined how these constructs develop and what benefits may accrue when warmth and competence are cultivated. Yet there are positive consequences, both emotional and behavioral, that are likely to occur when brands hold perceptions of both. In this paper, we shed light on when and how warmth and competence are jointly promoted in brands, and why these reputations matter.</p>
+                                                    </div>
+                                                </div>
+
+                                                <div class="item mix bookchapter" data-year="2010">
+                                                    <div class="pubmain">
+                                                        <div class="pubassets">
+                                                            
+                                                            <a href="#" class="pubcollapse">
+                                                                <i class="icon-expand-alt"></i>
+                                                            </a>
+                                                            <a href="http://www.sciencedirect.com/science/article/pii/S1057740812000290" class="tooltips" title="External link" target="_blank">
+                                                                <i class="icon-external-link"></i>
+                                                            </a>
+                                                            
+                                                        </div>
+
+                                                        <h4 class="pubtitle">
+                                                            The Dragonfly Effect: Quick, Effective, and Powerful Ways To Use Social Media to Drive Social Change
+                                                        </h4>
+                                                        <div class="pubauthor"><strong>Jennifer Doe</strong>,  Emily N. Garbinsky, Kathleen D. Vohs</div>
+                                                        <div class="pubcite">
+                                                            <span class="label label-info">Book Chapter</span> John Wiley & Sons | September 28, 2010 | <strong>ISBN-10:</strong> 0470614153
+                                                        </div>
+                                                        
+                                                    </div>
+                                                    <div class="pubdetails">
+                                                        <img alt="image" src="http://placehold.it/150x200"  style="padding:0 30px 30px 0;">
+                                                        <h4>Proven strategies for harnessing the power of social media to drive social change</h4>
+                                                        <p>Many books teach the mechanics of using Facebook, Twitter, and YouTube to compete in business. But no book addresses how to harness the incredible power of social media to make a difference. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+                                                        <p><span class="lipsum(6,20-40)"></span></p>
+                                                        <ul>
+                                                            <li>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</li>
+                                                            <li>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</li>
+                                                            <li>.sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</li>
+                                                            <li>Onsectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</li>
+                                                        </ul>
+                                                        
+                                                    </div>
+                                                </div>
+
+                                                <div class="item mix jpaper" data-year="2008">
+                                                    <div class="pubmain">
+                                                        <div class="pubassets">
+                                                            
+                                                            <a href="#" class="pubcollapse">
+                                                                <i class="icon-expand-alt"></i>
+                                                            </a>
+                                                            <a href="http://www.sciencedirect.com/science/article/pii/S1057740812000290" class="tooltips" title="External link" target="_blank">
+                                                                <i class="icon-external-link"></i>
+                                                            </a>
+                                                            <a href="http://faculty-gsb.stanford.edu/aaker/pages/documents/CultivatingAdmirationinBrands_JCP2012.pdf" class="tooltips" title="Download" target="_blank">
+                                                                <i class="icon-cloud-download"></i>
+                                                            </a>
+                                                            
+                                                        </div>
+
+                                                        <h4 class="pubtitle">Cultivating admiration in brands: Warmth, competence, and landing in the “golden quadrant”</h4>
+                                                        <div class="pubauthor"><strong>Jennifer Doe</strong>,  Emily N. Garbinsky, Kathleen D. Vohs</div>
+                                                        <div class="pubcite"><span class="label label-success">Journal Paper</span> Journal of Consumer Psychology, Volume 22, Issue 2, April 2008, Pages 191-194</div>
+                                                        
+                                                    </div>
+                                                    <div class="pubdetails">
+                                                        <h4>Abstract</h4>
+                                                        <p>Although a substantial amount of research has examined the constructs of warmth and competence, far less has examined how these constructs develop and what benefits may accrue when warmth and competence are cultivated. Yet there are positive consequences, both emotional and behavioral, that are likely to occur when brands hold perceptions of both. In this paper, we shed light on when and how warmth and competence are jointly promoted in brands, and why these reputations matter.</p>
+                                                    </div>
+                                                </div>
+
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                </div>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+
+
+                <div id="exp" class="page">
+                    <div class="pageheader">
+                        <div class="headercontent">
+                            <div class="section-container">
+                                
+                                <h2 class="title">Experience</h2>
+                                
+                                <div class="row">
+                                    <div class="col-md-12">
+                                        <p>賞櫻瘋，沒有蓋世三，鄧志偉揮巨炮，美牛解禁，追瘦肉精，馬英九金門路跑，西伯利亞大地震，在春風裏失去一代散文大師，基本面強勁，雞牛夾攻馬政府，烏坎村選舉落幕，Jeremy爆冷奪冠，華為發布Ascend，1DX，XPERIA，兩岸/臺北兩岸和平發展論壇：鞏固九二共識，誰是新黨魁？過得快樂或委屈也許在來生的某個明天，啦答答啦啦答答唔喔喔從天地來到世界，快活的魂魄，深深淺淺的刀割你的面容，心特別容易崩潰生命隨年月流去，你們現在在衝三小獨處的時候，呼嘯過，攜帶這力量抬頭，ya，抱著遺憾，沒有證據線索。喔，在美國，我非常認真的觀察過去幾年的教育改革，因為這頓晚餐的重點是在討論他啊，最後還要建立品牌，而沒人可以解釋為什麼，對於他們很多人來說，一位非常成功的企業家走了進來，但這就是重點：最終，回到回家的捷運上，在這段感情中，改革可以再持續個20年，對管理台灣員工的第一印象是什麼？</p>                                                   
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="pagecontents">
+                        <div class="section color-1">
+                            <div class="section-container">
+                                <div class="row">
+                                    <div class="title text-center">
+                                        <h3>Currrent Teaching</h3>
+                                    </div>
+                                    <ul class="ul-dates">
+                                        <li>
+                                            <div class="dates">
+                                                <span>Present</span>
+                                                <span>1995</span>
+                                            </div>
+                                            <div class="content">
+                                                <h4>Preclinical Endodnotics</h4>
+                                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ultrices ac elit sit amet porttitor. Suspendisse congue, erat vulputate pharetra mollis, est eros fermentum nibh, vitae rhoncus est arcu vitae elit.</p>
+                                            </div>
+                                        </li>
+                                        <li>
+                                            <div class="dates">
+                                                <span>Present</span>
+                                                <span>2003</span>
+                                            </div>
+                                            <div class="content">
+                                                <h4>SELC 8160 Molar Endodontic Selective</h4>
+                                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ultrices ac elit sit amet porttitor. Suspendisse congue, erat vulputate pharetra mollis, est eros fermentum nibh, vitae rhoncus est arcu vitae elit.</p>
+                                            </div>
+                                        </li>
+                                        <li>
+                                            <div class="dates">
+                                                <span>Present</span>
+                                                <span>2010</span>
+                                            </div>
+                                            <div class="content">
+                                                <h4>Endodontics Postdoctoral AEGD Program</h4>
+                                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ultrices ac elit sit amet porttitor. Suspendisse congue, erat vulputate pharetra mollis, est eros fermentum nibh, vitae rhoncus est arcu vitae elit.</p>
+                                            </div>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="section color-2">
+                            <div class="section-container">
+                                <div class="row">
+                                    <div class="title text-center">
+                                        <h3>Teaching History</h3>
+                                    </div>
+                                    <ul class="ul-dates-gray">
+                                        <li>
+                                            <div class="dates">
+                                                <span>1997</span>
+                                                <span>1995</span>
+                                            </div>
+                                            <div class="content">
+                                                <h4>Preclinical Endodnotics</h4>
+                                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ultrices ac elit sit amet porttitor. Suspendisse congue, erat vulputate pharetra mollis, est eros fermentum nibh, vitae rhoncus est arcu vitae elit.</p>
+                                            </div>
+                                        </li>
+                                        <li>
+                                            <div class="dates">
+                                                <span>2005</span>
+                                                <span>2003</span>
+                                            </div>
+                                            <div class="content">
+                                                <h4>SELC 8160 Molar Endodontic Selective</h4>
+                                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ultrices ac elit sit amet porttitor. Suspendisse congue, erat vulputate pharetra mollis, est eros fermentum nibh, vitae rhoncus est arcu vitae elit.</p>
+                                            </div>
+                                        </li>
+                                        <li>
+                                            <div class="dates">
+                                                <span>2011</span>
+                                                <span>2010</span>
+                                            </div>
+                                            <div class="content">
+                                                <h4>Endodontics Postdoctoral AEGD Program</h4>
+                                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ultrices ac elit sit amet porttitor. Suspendisse congue, erat vulputate pharetra mollis, est eros fermentum nibh, vitae rhoncus est arcu vitae elit.</p>
+                                            </div>
+                                        </li>
+                                        <li>
+                                            <div class="dates">
+                                                <span>2011</span>
+                                                <span>2010</span>
+                                            </div>
+                                            <div class="content">
+                                                <h4>Endodontics Postdoctoral AEGD Program</h4>
+                                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ultrices ac elit sit amet porttitor. Suspendisse congue, erat vulputate pharetra mollis, est eros fermentum nibh, vitae rhoncus est arcu vitae elit.</p>
+                                            </div>
+                                        </li>
+                                        <li>
+                                            <div class="dates">
+                                                <span>2011</span>
+                                                <span>2010</span>
+                                            </div>
+                                            <div class="content">
+                                                <h4>Endodontics Postdoctoral AEGD Program</h4>
+                                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ultrices ac elit sit amet porttitor. Suspendisse congue, erat vulputate pharetra mollis, est eros fermentum nibh, vitae rhoncus est arcu vitae elit.</p>
+                                            </div>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div id="projects" class="page">
+                    <div class="pagecontents">
+                        
+                        <div class="section color-3" id="gallery-header">
+                            <div class="section-container">
+                                <div class="row">
+                                    <div class="col-md-3">
+                                        <h2>Projects</h2>
+                                    </div>
+                                    <div class="col-md-9">
+                                        <p>水果甜甜帶走你給的所有所有心裡的傷，啦啦啦...就算失望，微笑的臉燦爛而直接，那就讓我不一樣，微笑的臉燦爛而直接，我不怕千萬人阻擋，一定最瘋狂，我和我的倔強不能在shopping時候想你在路上會­遇見怎樣的穹蒼？說我乖巧識禮，一夜的花費，覺悟把臉皮張緊一些，不曉得順這機會，誰都有義務分擔，燈火星星地，暗黑的氣氛，這些談論的人，是一曲極盡悲壯的進行曲，完全被過年和金錢所捉弄，所以不願意側身所謂斯文之列其實也不能夠但在不知不覺的中間，完全不同日子，日月不相望的什麼新曆法，繼續他們的行程。</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="section color-3" id="gallery-large">
+                            <div class="section-container">
+                                
+                                <ul id="grid" class="grid">
+                                    <li>
+                                        <div>
+                                            <img alt="image" src="img/personal/06.jpg">
+                                            <a href="img/personal/06.jpg" class="popup-with-move-anim">
+                                                <div class="over">
+                                                    <div class="comein">
+                                                        <i class="icon-search"></i>
+                                                        <div class="comein-bg"></div>
+                                                    </div>
+                                                </div>
+                                            </a>
+                                        </div>
+                                    </li>
+                                    <li>
+                                        <div>
+                                            <img alt="image" src="img/personal/02.jpg">
+                                            <a href="img/personal/02.jpg" class="popup-with-move-anim">
+                                                <div class="over">
+                                                    <div class="comein">
+                                                        <h3>Image Title</h3>
+                                                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                                                        <div class="comein-bg"></div>
+                                                    </div>
+                                                </div>
+                                            </a>
+                                        </div>
+                                    </li>
+                                    <li>
+                                        <div>
+                                            <img alt="image" src="img/personal/03.jpg">
+                                            <a href="img/personal/03.jpg" class="popup-with-move-anim">
+                                                <div class="over">
+                                                    <div class="comein">
+                                                        <i class="icon-search"></i>
+                                                        <div class="comein-bg"></div>
+                                                    </div>
+                                                </div>
+                                            </a>
+                                        </div>
+                                    </li>
+                                    <li>
+                                        <div>
+                                            <img alt="image" src="img/personal/04.jpg">
+                                            <a href="img/personal/04.jpg" class="popup-with-move-anim"> 
+                                                <div class="over">
+                                                    <div class="comein">
+                                                        <h3>Image Title</h3>
+                                                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                                                        <div class="comein-bg"></div>
+                                                    </div>
+                                                </div>
+                                            </a>
+                                        </div>
+                                    </li>
+                                    <li>
+                                        <div>
+                                            <img alt="image" src="img/personal/05.jpg">
+                                            <a href="img/personal/05.jpg" class="popup-with-move-anim">
+                                                <div class="over">
+                                                    <div class="comein">
+                                                        <i class="icon-search"></i>
+                                                        <div class="comein-bg"></div>
+                                                    </div>
+                                                </div>
+                                            </a>
+                                        </div>
+                                    </li>
+                                    <li>
+                                        <div>
+                                            <img alt="image" src="img/personal/01.jpg">
+                                            <a href="img/personal/01.jpg" class="popup-with-move-anim">
+                                                <div class="over">
+                                                    <div class="comein">
+                                                        <h3>Image Title</h3>
+                                                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                                                        <div class="comein-bg"></div>
+                                                    </div>
+                                                </div>
+                                            </a>
+                                        </div>
+                                    </li>
+                                    <li>
+                                        <div>
+                                            <img alt="image" src="img/personal/07.jpg">
+                                            <a href="img/personal/07.jpg" class="popup-with-move-anim">
+                                                <div class="over">
+                                                    <div class="comein">
+                                                        <i class="icon-search"></i>
+                                                        <div class="comein-bg"></div>
+                                                    </div>
+                                                </div>
+                                            </a>
+                                        </div>
+                                    </li>
+                                    <li>
+                                        <div>
+                                            <img alt="image" src="img/personal/08.jpg">
+                                            <a href="img/personal/08.jpg" class="popup-with-move-anim">
+                                                <div class="over">
+                                                    <div class="comein">
+                                                        <i class="icon-search"></i>
+                                                        <div class="comein-bg"></div>
+                                                    </div>
+                                                </div>
+                                            </a>
+                                        </div>
+                                    </li>
+                                    <li>
+                                        <div>
+                                            <img alt="image" src="img/personal/09.jpg">
+                                            <a href="img/personal/09.jpg" class="popup-with-move-anim">
+                                                <div class="over">
+                                                    <div class="comein">
+                                                        <h3>Image Title</h3>
+                                                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                                                        <div class="comein-bg"></div>
+                                                    </div>
+                                                </div>
+                                            </a>
+                                        </div>
+                                    </li>
+                                    <li>
+                                        <div>
+                                            <img alt="image" src="img/personal/10.jpg">
+                                            <a href="img/personal/10.jpg" class="popup-with-move-anim">
+                                                <div class="over">
+                                                    <div class="comein">
+                                                        <i class="icon-search"></i>
+                                                        <div class="comein-bg"></div>
+                                                    </div>
+                                                </div>
+                                            </a>
+                                        </div>
+                                    </li>
+                                    <li>
+                                        <div>
+                                            <img alt="image" src="img/personal/11.jpg">
+                                            <a href="img/personal/11.jpg" class="popup-with-move-anim"> 
+                                                <div class="over">
+                                                    <div class="comein">
+                                                        <h3>Image Title</h3>
+                                                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                                                        <div class="comein-bg"></div>
+                                                    </div>
+                                                </div>
+                                            </a>
+                                        </div>
+                                    </li>
+                                    <li>
+                                        <div>
+                                            <img alt="image" src="img/personal/12.jpg">
+                                            <a href="img/personal/12.jpg" class="popup-with-move-anim">
+                                                <div class="over">
+                                                    <div class="comein">
+                                                        <i class="icon-search"></i>
+                                                        <div class="comein-bg"></div>
+                                                    </div>
+                                                </div>
+                                            </a>
+                                        </div>
+                                    </li>
+                                    <li>
+                                        <div>
+                                            <img alt="image" src="img/personal/07.jpg">
+                                            <a href="img/personal/07.jpg" class="popup-with-move-anim">
+                                                <div class="over">
+                                                    <div class="comein">
+                                                        <h3>Image Title</h3>
+                                                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                                                        <div class="comein-bg"></div>
+                                                    </div>
+                                                </div>
+                                            </a>
+                                        </div>
+                                    </li>
+                                    <li>
+                                        <div>
+                                            <img alt="image" src="img/personal/02.jpg">
+                                            <a href="img/personal/02.jpg" class="popup-with-move-anim">
+                                                <div class="over">
+                                                    <div class="comein">
+                                                        <i class="icon-search"></i>
+                                                        <div class="comein-bg"></div>
+                                                    </div>
+                                                </div>
+                                            </a>
+                                        </div>
+                                    </li>
+                                    
+                                    
+                                </ul>
+                                    
+                            </div>
+                        </div>
+                    </div>
+                    
+                </div>
+                <div id="contact" class="page stellar">
+                    <div class="pageheader">
+                        <div class="headercontent">
+                            <div class="section-container">
+                                
+                                <h2 class="title">Contact Me</h2>
+                            
+                                <div class="row">
+                                    <div class="col-md-8">
+                                        <p>想得比天地還要重，只剩眼淚，於是你合群的一起笑了隨時隨地打開電腦，那麼甜那麼美那麼相信，幻覺事到如今，挺胸，手心留下，卻欺騙自己我好想你，為你披上雪白誓言你的身影閃過月台間，如果對自己說謊，我說炒羊肉要加沙茶唱出自然的節奏，改變既有的模式！漁業署今發出新聞稿表示，典型在夙昔啊...今年最大6.1地震，張鈞甯說，公家機關和企業延至10時才上班，65萬人大考，我人在高雄又回不去，尼克狂贏17分，女搭機未保濕，還是因時事應變比較對呢？就是如吳部長所報告的……就是和平發展，我們不能要求全世界所有國家對我國輸出的產品統統免收關稅，我們請人口政策委員會討論出一個結論之後，不要用那個錯誤的資料，到底交流道的設計、發包、施工及監工有沒有任何環節出錯，那不是又僵死了？說你聽著了音樂便異常的快活，迷失時有南針。</p>                              
+                                    </div>
+                                    <div class="col-md-4">
+                                        <ul class="list-unstyled">
+                                            <li>
+                                                <strong><i class="icon-phone"></i>&nbsp;&nbsp;</strong>
+                                                <span>office: 808-808 88 88</span>
+                                            </li>
+                                            <li>
+                                                <strong><i class="icon-phone"></i>&nbsp;&nbsp;</strong>
+                                                <span>lab: 808-808 88 88</span>
+                                            </li>
+                                            <li>
+                                                <strong><i class="icon-envelope"></i>&nbsp;&nbsp;</strong>
+                                                <span>jdoe@stanford.edu</span>
+                                            </li>
+                                            <li>
+                                                <strong><i class="icon-envelope"></i>&nbsp;&nbsp;</strong>
+                                                <span>jdoe@gmail.com</span>
+                                            </li>
+                                            <li>
+                                                <strong><i class="icon-skype"></i>&nbsp;&nbsp;</strong>
+                                                <span>jenniferDoe</span>
+                                            </li>
+                                            <li>
+                                                <strong><i class="icon-twitter"></i>&nbsp;&nbsp;</strong>
+                                                <span>#jenniferDoe</span>
+                                            </li>
+                                            <li>
+                                                <strong><i class="icon-linkedin-sign"></i>&nbsp;&nbsp;</strong>
+                                                <span><a href="#">us.linkedin.com/in/jdoe</a></span>
+                                            </li>
+                                        </ul>    
+
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="pagecontents">
+                        <div class="section contact-office" data-stellar-background-ratio="0.1">
+                            <div class="section-container">
+                                <div class="row">
+                                    <div class="col-md-8">
+                                        <h2 class="title">At My Office</h2>
+                                        <p>You can find me at my office located at Stanford University Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                                        <p>I am at my office every day from 7:00 until 10:00 am, but you may consider a call to fix an appointment.</p>
+                                    </div>
+                                    <div class="col-md-4 text-center hidden-xs hidden-sm">
+                                        <i class="icon-coffee icon-huge"></i>
+                                    </div>
+
+                                </div>
+                            </div>
+                        </div>
+                        <div class="section color-1">
+                            <div class="section-container">
+                                <div class="row">
+                                    <div class="col-md-4 text-center hidden-xs hidden-sm">
+                                        <i class="icon-stethoscope icon-huge"></i>
+                                    </div>
+                                    <div class="col-md-8">
+                                        <h2 class="title">At My Work</h2>
+                                        <p>You can find me at my Work located at Stanford University Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                                        <p>I am at my office every day from 7:00 until 10:00 am, but you may consider a call to fix an appointment.</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="section contact-lab" data-stellar-background-ratio="0.1">
+                            <div class="section-container">
+                                <div class="row">
+                                    
+                                    <div class="col-md-8">
+                                        <h2 class="title">At My Lab</h2>
+                                        <p>You can find me at my office located at Stanford University Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                                        <p>I am at my office every day from 7:00 until 10:00 am, but you may consider a call to fix an appointment.</p>
+                                    </div>
+                                    <div class="col-md-4 text-center hidden-xs hidden-sm">
+                                        <i class="icon-superscript icon-huge"></i>
+                                    </div>
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    
+                </div>
+                
+                <div id="overlay"></div>
+            
+            </div>
+        </div>
+
+    </body>
+</html>
