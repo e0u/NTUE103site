@@ -55,41 +55,33 @@
           <div class="row">
             <div class="col-6 col-sm-6 col-lg-4">
               <h2>網站公告~</h2>
-              <p><span class="label label-success">系統</span> <font size:13px>-08.23 網站對外上線 </font> </p>
-              <p><span class="label label-success">系統</span> <font size:13px>-08.12 網站架構完成 </font> </p>              
+              <p><span class="label label-success">系統</span> <font size:13px>-12.30 網站上線 </font> </p>
+              
               <p><a class="btn btn-default" href="#" role="button">查看更多 &raquo;</a></p>
             </div><!--/span-->
             <div class="col-6 col-sm-6 col-lg-4">
-              <h2>學校資訊</h2>
-              <p><span class="label label-danger">HOT!!</span> <a href="107stuid.pdf"> <font size:13px> 大學部新生學號 </font></a> </p>
-              <p><span class="label label-success">NEW!!</span> <a href="http://academic.ntue.edu.tw/files/14-1007-3359,r12-1.php"> 103學年度大一「英文」分班</font></a> </p>
-              <p><span class="label label-default">宿舍</span> <font size:13px> 8/19-8/25 宿舍上網登錄申請 </font> </p>
-            </div><!--/span-->
-            <div class="col-6 col-sm-6 col-lg-4">
-              <h2>About</h2>
-              <p>其實我也不知道為甚麼想做這個，大概是太無聊了吧？雖然我很命苦的在暑修ing...
-                但是看不下去時，會想做點不同的東西來呈現出來...</p>
-
-            </div><!--/span-->
+              <h2>課程資訊</h2>
+              <p><span class="label label-danger">HOT!!</span>  <font size:13px> 103年第2學期課表公布 </font> </p>
 
           </div><!--/row-->
+          <div class="col-6 col-sm-6 col-lg-4">
+              <h2>About</h2>
+              <p>不知道改了多少次架構，砍掉重來了幾次...<br>
+                會盡速上線</p>
+
+            </div>
         </div><!--/span-->
 
-        <div class="col-xs-6 col-sm-3 sidebar-offcanvas" id="sidebar" role="navigation">
+
+        </div><!--/span-->
+                <div class="col-xs-6 col-sm-3 sidebar-offcanvas" id="sidebar" role="navigation">
           <div class="list-group">
             <a href="#" class="list-group-item active">常用連結</a>
-            <a href="https://www.facebook.com/groups/ntue107" class="list-group-item">107級 x 新生交流版</a>
             <a href="http://www.ntue.edu.tw/" class="list-group-item">國北教大首頁</a>
-            <a href="107stuid.pdf" class="list-group-item">大學部新生學號</a>
             <a href="http://academic.ntue.edu.tw/" class="list-group-item">教務處</a>
-            <a href="http://dsa.ntue.edu.tw/web/index.php" class="list-group-item">學務處</a>
-            <a href="http://apstu.ntue.edu.tw/univweb/Secure/default.aspx" class="list-group-item">教務資訊系統</a>
-            <a href="https://www.facebook.com/groups/414033391994003/" class="list-group-item">學治會 FB 社團</a>
-            <a href="https://www.facebook.com/groups/194514594077227/" class="list-group-item">國北選課沒地雷</a>
-            <a href="https://www.facebook.com/NTUECrushes" class="list-group-item">告白國北 NTUE Crushes</a>
-            <a href="https://www.facebook.com/NTUEHate" class="list-group-item">黑特國北 NTUE Hates</a>
+            <a href="http://me.ntue.edu.tw" class="list-group-item">數資系系網</a>
+            <a href="https://www.facebook.com/groups/131482166952084/" class="list-group-item">數資系 FB 社團</a>
           </div>
-        </div><!--/span-->
       </div><!--/row-->
 
     

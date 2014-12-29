@@ -76,43 +76,56 @@
         </div>
         <div class="collapse navbar-collapse">
           <ul class="nav navbar-nav">            
-            <li><a href="#about">About</a></li>
-            <li><a href="#News">News</a></li>
-            <li class="dropdown">
-              <a href="#" class="dropdown-toggle" data-toggle="dropdown">理學院<b class="caret"></b></a>
+      <li><a href="#News">News</a></li>
+      <li class="dropdown">
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown">About<b class="caret"></b></a>
               <ul class="dropdown-menu">
-                <li><a href="pe.php">體育學系</a></li>
-                <li><a href="cs.php">資訊科學系</a></li>
-                <li><a href="nse.php">自然科學教育學系</a></li>
-                <li><a href="dtd.php">數位科技設計學系</a></li>
-                <li><a href="mie.php">數學暨資訊教育學系</a></li>
+                <li><a href=#>大學部簡介</a></li>
+                <li><a href=#>碩士班簡介</a></li>
+              </ul>
+            </li>
+
+            <li class="dropdown">
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown">大學部核心能力<b class="caret"></b></a>
+              <ul class="dropdown-menu">
+                <li><a href=#>103學年度</a></li>
+                <li><a href=#>102學年度</a></li>
+                <li><a href=#>101學年度</a></li>
+                <li><a href=#>100學年度</a></li>
+                <li><a href=#>99學年度</a></li>
               </ul>
             </li>
             <li class="dropdown">
-              <a href="#" class="dropdown-toggle" data-toggle="dropdown">教育學院<b class="caret"></b></a>
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown">大學部課程綱要<b class="caret"></b></a>
               <ul class="dropdown-menu">
-                <li><a href="e.php">教育學系</a></li>
-                <li><a href="se.php">特殊教育學系</a></li>
-                <li><a href="psy.php">心理與諮商學系</a></li>                
-                <li><a href="em.php">教育經營與管理學系</a></li>
-                <li><a href="che.php">幼兒與家庭教育學系</a></li>
-                <li><a href="s.php">社會與區域發展學系</a></li>
-                
+                <li><a href=#>103學年度</a></li>
+                <li><a href=#>102學年度</a></li>
+                <li><a href=#>101學年度</a></li>
+                <li><a href=#>100學年度</a></li>
+                <li><a href=#>99學年度</a></li>                
               </ul>
             </li>
-            <li class="dropdown">
-              <a href="#" class="dropdown-toggle" data-toggle="dropdown">人文藝術學院<b class="caret"></b></a>
+           <li class="dropdown">
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown">碩士班核心能力<b class="caret"></b></a>
               <ul class="dropdown-menu">
-                <li><a href="music.php">音樂學系</a></li>
-                <li><a href="lcw.php">語文與創作學系</a></li>
-                <li><a href="cee.php">兒童英語教育學系</a></li>
-                <li><a href="art.php">藝術與造形設計學系</a></li>
-                <li><a href="ccim.php">文化創意產業經營學系</a></li>
+                <li><a href=#>103學年度</a></li>
+                <li><a href=#>102學年度</a></li>
+                <li><a href=#>101學年度</a></li>
+                <li><a href=#>100學年度</a></li>
+                <li><a href=#>99學年度</a></li>
               </ul>
             </li>
-            <li><a href="#News">Q&A</a></li>
-            <li><a href="#News">社團資訊</a></li>
-            <li><a href="#News">修課資訊</a></li>
+             <li class="dropdown">
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown">碩士班核心能力<b class="caret"></b></a>
+              <ul class="dropdown-menu">
+                <li><a href=#>103學年度</a></li>
+                <li><a href=#>102學年度</a></li>
+                <li><a href=#>101學年度</a></li>
+                <li><a href=#>100學年度</a></li>
+                <li><a href=#>99學年度</a></li>
+              </ul>
+            </li>
+            <li><a href="#News">替代課程</a></li>
           </ul>
         </div><!-- /.nav-collapse -->
       </div><!-- /.container -->
