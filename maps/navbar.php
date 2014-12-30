@@ -80,7 +80,7 @@
       <li class="dropdown">
               <a href="#" class="dropdown-toggle" data-toggle="dropdown">About<b class="caret"></b></a>
               <ul class="dropdown-menu">
-                <li><a href=#>大學部簡介</a></li>
+                <li><a href=aboutunder.php>大學部簡介</a></li>
                 <li><a href=#>碩士班簡介</a></li>
               </ul>
             </li>
@@ -88,7 +88,7 @@
             <li class="dropdown">
               <a href="#" class="dropdown-toggle" data-toggle="dropdown">大學部核心能力<b class="caret"></b></a>
               <ul class="dropdown-menu">
-                <li><a href=#>103學年度</a></li>
+                <li><a href=103core_under_m.php>103學年度</a></li>
                 <li><a href=#>102學年度</a></li>
                 <li><a href=#>101學年度</a></li>
                 <li><a href=#>100學年度</a></li>

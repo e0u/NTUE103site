@@ -1,4 +1,3 @@
-
 /*! * Bootstrap v3.1.1 (http: //getbootstrap.com) * Copyright 2011-2014 Twitter, Inc. * Licensed under MIT (https: //github.com/twbs/bootstrap/blob/master/LICENSE)*/
 	/*! normalize.css v3.0.0 | MIT License | git.io/normalize*/
 	html {
@@ -140,7 +139,8 @@ optgroup {
 }
 table {
 	border-collapse: collapse;
-	border-spacing: 0
+	border-spacing: 0;
+	border-color: #006633;
 }
 td,th {
 	padding: 0
@@ -223,7 +223,7 @@ body {
 	font-family: "jfonts","Helvetica Neue",Helvetica,Arial,sans-serif;
 	font-size: 14px;
 	line-height: 1.42857143;
-	color: #333;
+	color: #06C;
 	background-color: #fff
 }
 input,button,select,textarea {
@@ -1233,7 +1233,9 @@ pre code {
 }
 }table {
 	max-width: 100%;
-	background-color: transparent
+	background-color: #CCFFFF;
+	text-align: center;
+	border: 2px solid #006633;
 }
 th {
 	text-align: left
