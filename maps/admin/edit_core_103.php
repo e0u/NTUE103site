@@ -40,7 +40,7 @@
       <div class="form-group has-success has-feedback">
         <label class="control-label col-sm-3" for="inputSuccess3">年度</label>
         <div class="col-sm-3">
-          <input type="text" class="form-control" placeholder="請輸入年度">
+          <input type="text" class="form-control" placeholder="請輸入年度" value="103" maxlength="3">
         </div>
 		
       </div>
