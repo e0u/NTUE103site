@@ -80,14 +80,14 @@
             <li class="dropdown">
               <a href="#" class="dropdown-toggle" data-toggle="dropdown">核心能力管理<b class="caret"></b></a>
               <ul class="dropdown-menu">
-                <li><a href=103core_under_m.php>新增年度</a></li>
-                <li><a href=#>編輯年度</a></li>
+                <li><a href=add_core.php>新增年度</a></li>
+                <li><a href=edit_core_103.php>編輯年度</a></li>
               </ul>
             </li>
             <li class="dropdown">
               <a href="#" class="dropdown-toggle" data-toggle="dropdown">課程綱要管理<b class="caret"></b></a>
               <ul class="dropdown-menu">
-                <li><a href=103core_under_m.php>新增年度</a></li>
+                <li><a href=#>新增年度</a></li>
                 <li><a href=#>編輯年度</a></li>             
               </ul>
             </li>
