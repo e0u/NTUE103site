@@ -84,11 +84,11 @@
           <td>必</td>
           <td width="40">1上</td>
           <td width="64">　</td>
-          <td width="64">●</td>
-          <td width="64">●</td>
+          <td width="64"> </td>
+          <td width="64"> </td>
           <td width="64">　</td>
-          <td>　</td>
-          <td width="64">　</td>
+          <td>●</td>
+          <td width="64">●</td>
           <td width="64">●</td>
         </tr>
         <tr>
