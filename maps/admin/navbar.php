@@ -40,9 +40,7 @@
 
 
 
--->
-
-  <head>
+--><head>
     <!-- Bootstrap core CSS -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
 
@@ -63,7 +61,9 @@
     <![endif]-->
   </head>
 
-    <div class="navbar navbar-fixed-top navbar-inverse" role="navigation">
+    
+
+  <div class="navbar navbar-fixed-top navbar-inverse" role="navigation">
       <div class="container">
         <div class="navbar-header">
           <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
@@ -96,7 +96,7 @@
               <ul class="dropdown-menu">
                 <li><a href=#>系統帳號管理</a></li>
                 <li><a href=#>網站公告管理</a></li>
-                <li><a href=#>系所簡介編輯</a></li>
+                <li><a href=aboutedit.php>系所簡介編輯</a></li>
                 <li><a href=#>替代課程編輯</a></li>
               </ul>
             </li>

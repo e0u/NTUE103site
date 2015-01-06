@@ -34,7 +34,7 @@
   <body>
     <?php include_once("analyticstracking.php") ?>
     <?php include_once("navbar.php") ?>
-
+	<script>alert("Warning: AUTH is DISABLE.")</script>
     <div class="container">
 
       <div class="row row-offcanvas row-offcanvas-right">
@@ -46,6 +46,10 @@
           <div class="alert alert-success fade in" role="alert">
           <button type="button" class="close" data-dismiss="alert"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
           <strong>系統訊息：</strong> 登入成功。驗證方式：VPN網路驗證
+          </div>
+          <div class="alert alert-danger fade in" role="alert">
+          <button type="button" class="close" data-dismiss="alert"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
+          <strong>警告：</strong> 後台安全驗證已關閉，請謹慎使用。
           </div>
 
           <div class="jumbotron">

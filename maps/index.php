@@ -46,7 +46,7 @@
           <div class="alert alert-info fade in" role="alert">
           <button type="button" class="close" data-dismiss="alert"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
           <strong>系統訊息：</strong> 目前由103學年課綱逐步建立資料，將盡速完成至99學年度之課程綱要。
-          </div>
+          </div>           
 
           <div class="jumbotron">
             <h2>數學暨資訊教育學系 學習地圖</h2>
