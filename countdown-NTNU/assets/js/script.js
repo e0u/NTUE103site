@@ -23,7 +23,7 @@ $(function(){
 			message += seconds + " second" + ( seconds==1 ? '':'s' ) + " <br />";
 			
 			if(newYear){
-				message += "left until the new year!";
+				message += "準備筆試";
 			}
 			else {
 				message += "left to 10 days from now!";
