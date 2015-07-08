@@ -51,24 +51,24 @@
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </button>
-      <a href="../" class="navbar-brand">Bootstrap</a>
+      <a href="#" class="navbar-brand">Bootstrap</a>
     </div>
     <nav id="bs-navbar" class="collapse navbar-collapse">
       <ul class="nav navbar-nav">
         <li class="active">
-          <a href="../getting-started/">Getting started</a>
+          <a href="getting-started.php">Getting started</a>
         </li>
         <li>
-          <a href="../css/">CSS</a>
+          <a href="css.php">CSS</a>
         </li>
         <li>
-          <a href="../components/">Components</a>
+          <a href="components.php">Components</a>
         </li>
         <li>
-          <a href="../javascript/">JavaScript</a>
+          <a href="javascript.php">JavaScript</a>
         </li>
         <li>
-          <a href="../customize/">Customize</a>
+          <a href="customize.php">Customize</a>
         </li>
       </ul>
       <ul class="nav navbar-nav navbar-right">
