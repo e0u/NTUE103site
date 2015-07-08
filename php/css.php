@@ -3691,23 +3691,23 @@ To edit settings, press <span class="nt">&lt;kbd&gt;&lt;kbd&gt;</span>ctrl<span 
             <ul class="nav bs-docs-sidenav">
               
                 <li>
-  <a href="#overview">Overview</a>
+  <a href="#overview">概觀</a>
   <ul class="nav">
     <li><a href="#overview-doctype">HTML5 doctype</a></li>
-    <li><a href="#overview-mobile">Mobile first</a></li>
-    <li><a href="#overview-type-links">Typography and links</a></li>
+    <li><a href="#overview-mobile">行動優先</a></li>
+    <li><a href="#overview-type-links">版面/連結</a></li>
     <li><a href="#overview-normalize">Normalize.css</a></li>
-    <li><a href="#overview-container">Containers</a></li>
+    <li><a href="#overview-container">容器</a></li>
   </ul>
 </li>
 <li>
-  <a href="#grid">Grid system</a>
+  <a href="#grid">格線系統</a>
   <ul class="nav">
-    <li><a href="#grid-intro">Introduction</a></li>
-    <li><a href="#grid-media-queries">Media queries</a></li>
-    <li><a href="#grid-options">Grid options</a></li>
-    <li><a href="#grid-example-basic">Ex: Stacked-to-horizontal</a></li>
-    <li><a href="#grid-example-fluid">Ex: Fluid container</a></li>
+    <li><a href="#grid-intro">前言</a></li>
+    <li><a href="#grid-media-queries">媒體搜尋</a></li>
+    <li><a href="#grid-options">格線選項</a></li>
+    <li><a href="#grid-example-basic">範例:由堆疊到水平排列Ex: Stacked-to-horizontal</a></li>
+    <li><a href="#grid-example-fluid">範例:流動容器</a></li>
     <li><a href="#grid-example-mixed">Ex: Mobile and desktop</a></li>
     <li><a href="#grid-example-mixed-complete">Ex: Mobile, tablet, desktop</a></li>
     <li><a href="#grid-example-wrapping">Ex: Column wrapping</a></li>
