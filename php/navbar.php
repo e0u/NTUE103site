@@ -21,6 +21,7 @@
       <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
     <![endif]-->
+    <script src="//s3-ap-northeast-1.amazonaws.com/justfont-user-script/jf-34167.js"></script>
   </head>
 
     <div class="navbar navbar-fixed-top navbar-inverse" role="navigation">
@@ -45,9 +46,20 @@
                 <li><a href="cs.php">如何安裝</a></li>
                 <li><a href="nse.php">認識 Github</a></li>
                 <li><a href="dtd.php">認識 Azure</a></li>
+                <li><a href="dtd.php">常用工具介紹</a></li>
                 <li><a href="mie.php">部屬網站</a></li>
               </ul>
             </li>
+            <li class="dropdown">
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown">第二堂<b class="caret"></b></a>
+              <ul class="dropdown-menu">
+                <li><a href="pe.php">RWD 響應式網頁</a></li>
+                <li><a href="cs.php">如何安裝</a></li>
+                <li><a href="nse.php">認識 Github</a></li>
+                <li><a href="dtd.php">認識 Azure</a></li>
+                <li><a href="mie.php">部屬網站</a></li>
+              </ul>
+            </li>            
           <li><a href="#about">About</a></li>
           </ul>
         </div><!-- /.nav-collapse -->

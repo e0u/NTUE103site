@@ -49,13 +49,13 @@
             <p>這裡會教大家如何輕鬆上手 php 這一項網頁語言，這是目前被全球普遍利用的網頁語言，市占率有突破了六成。</p>
           </div>
 
-      <footer>
-        <?php include_once("footer.php") ?>
-      </footer>
+
 
     </div><!--/.container-->
 
-
+      <footer>
+        <?php include_once("footer.php") ?>
+      </footer>
 
     <!-- Bootstrap core JavaScript
     ================================================== -->
