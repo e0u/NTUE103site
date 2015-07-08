@@ -47,6 +47,7 @@
     <a id="skippy" class="sr-only sr-only-focusable" href="#content"><div class="container"><span class="skiplink-text">Skip to main content</span></div></a>
 
     <!-- Docs master nav -->
+       <!-- Docs master nav -->
     <header class="navbar navbar-static-top bs-docs-nav" id="top" role="banner">
   <div class="container">
     <div class="navbar-header">
@@ -56,25 +57,25 @@
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </button>
-      <a href="#" class="navbar-brand">Bootstrap</a>
+      <a href="#" class="navbar-brand">Bootstrap v3.3</a>
     </div>
     <nav id="bs-navbar" class="collapse navbar-collapse">
       <ul class="nav navbar-nav">
         <li>
-          <a href="getting-started.php">Getting started</a>
+          <a href="getting-started.php">入門</a>
         </li>
-        <li class="active">
+        <li>
           <a href="css.php">CSS</a>
         </li>
         <li>
-          <a href="components.php">Components</a>
+          <a href="components.php">元件</a>
         </li>
         <li>
           <a href="javascript.php">JavaScript</a>
         </li>
-        <li>
-          <a href="customize.php">Customize</a>
-        </li>
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        <li><a href="https://www.facebook.com/dreammner.li">FB</a></li>
       </ul>
     </nav>
   </div>
