@@ -38,18 +38,18 @@
 
       <div class="row row-offcanvas row-offcanvas-right">
 
-        <div class="col-xs-16 col-sm-9">
+        <div class="col-xs-14 col-sm-12">
           <p class="pull-right visible-xs">
             <button type="button" class="btn btn-primary btn-xs" data-toggle="offcanvas">Toggle nav</button>
           </p>
 
-          <div class="jumbotron">
+          
                     PHP（全稱：PHP：Hypertext Preprocessor）是一種開源的通用電腦手稿語言，尤其適用於網路開發並可嵌入HTML中使用。PHP的語法借鑑吸收C語言、
                     Java和Perl等流行電腦語言的特點，易於一般程式設計師學習。PHP的主要目標是允許網路開發人員快速編寫動態頁面，但PHP也被用於其他很多領域。\n
 
                     PHP的應用範圍相當廣泛，尤其是在網頁程式的開發上。一般來說PHP大多執行在網頁伺服器上，透過執行PHP程式碼來產生使用者瀏覽的網頁。PHP可以
                     在多數的伺服器和作業系統上執行，而且使用PHP完全是免費的。根據2013年4月的統計資料，PHP已經被安裝在超過2億4400萬個網站和210萬台伺服器上
-          </div>
+          
 
 
 
