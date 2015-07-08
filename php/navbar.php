@@ -42,7 +42,7 @@
             <li class="dropdown">
               <a href="#" class="dropdown-toggle" data-toggle="dropdown">第一堂<b class="caret"></b></a>
               <ul class="dropdown-menu">
-                <li><a href="pe.php">認識 php</a></li>
+                <li><a href="1-1.php">認識 php</a></li>
                 <li><a href="cs.php">如何安裝</a></li>
                 <li><a href="nse.php">認識 Github</a></li>
                 <li><a href="dtd.php">認識 Azure</a></li>
