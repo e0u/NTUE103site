@@ -93,25 +93,25 @@
 <div class="bs-docs-featurette">
   <div class="container">
     <h2 class="bs-docs-featurette-title">專為每一個人 每一處設計</h2>
-    <p class="lead">Bootstrap makes front-end web development faster and easier. It's made for folks of all skill levels, devices of all shapes, and projects of all sizes.</p>
+    <p class="lead">Bootstrap 3讓前端開發更快與簡單。 For everyone, every device and all projects</p>
 
     <hr class="half-rule">
 
     <div class="row">
       <div class="col-sm-4">
         <img src="sass-less.png" alt="Sass and Less support" class="img-responsive">
-        <h3>Preprocessors</h3>
-        <p>Bootstrap ships with vanilla CSS, but its source code utilizes the two most popular CSS preprocessors, <a href="../css/#less">Less</a> and <a href="../css/#sass">Sass</a>. Quickly get started with precompiled CSS or build on the source.</p>
+        <h3>前端</h3>
+        <p>Bootstrap 雖然發行為一般的 CSS，但它的原始程式碼是基於兩個流行的 CSS 前置處理器，Less 和 Sass。你可以選擇使用預編譯的 CSS 來快速上手或從原始程式碼建置自己的版本。</p>
       </div>
       <div class="col-sm-4">
         <img src="devices.png" alt="Responsive across devices" class="img-responsive">
-        <h3>One framework, every device.</h3>
-        <p>Bootstrap easily and efficiently scales your websites and applications with a single code base, from phones to tablets to desktops with CSS media queries.</p>
+        <h3>一個框架 全設備都通</h3>
+        <p>Bootstrap 3 能基於一份程式碼而簡易且有效的擴展你的網站和應用程式， 利用 CSS 媒體查詢（Media Query）來處理手機、平板到桌上電腦各種平台。</p>
       </div>
       <div class="col-sm-4">
         <img src="components.png" alt="Components" class="img-responsive">
-        <h3>Full of features</h3>
-        <p>With Bootstrap, you get extensive and beautiful documentation for common HTML elements, dozens of custom HTML and CSS components, and awesome jQuery plugins.</p>
+        <h3>功能豐富</h3>
+        <p>在 Bootstrap 3，有全面且美觀的頁面，你可以 HTML 元素、若干自訂 HTML 和 CSS 元件和 jQuery 外掛。</p>
       </div>
     </div>
 
@@ -159,8 +159,7 @@
 
     <hr class="half-rule">
 
-    <p class="lead">We showcase dozens of inspiring projects built with Bootstrap on the Bootstrap Expo.</p>
-    <a href="http://expo.getbootstrap.com" class="btn btn-outline btn-lg">Explore the Expo</a>
+
   </div>
 </div>
 

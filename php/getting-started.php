@@ -121,9 +121,9 @@
   </div>
 
 <div class="bs-docs-section">
-  <h1 id="whats-included" class="page-header">What's included</h1>
+  <h1 id="whats-included" class="page-header">檔案包含</h1>
 
-  <p class="lead">Bootstrap is downloadable in two forms, within which you'll find the following directories and files, logically grouping common resources and providing both compiled and minified variations.</p>
+  <p class="lead">Bootstrap 提供兩種下載的形式，一種是你可以看到下面的目錄和檔案，以共同資源進行邏輯分類並且提供已編譯與最佳化兩種版本。</p>
 
   <div class="bs-callout bs-callout-warning" id="jquery-required">
     <h4>jQuery required</h4>
