@@ -85,7 +85,7 @@
     <div class="bs-docs-header" id="content" tabindex="-1">
       <div class="container">
         <h1>CSS</h1>
-        <p>Global CSS settings, fundamental HTML elements styled and enhanced with extensible classes, and an advanced grid system.</p>
+        <p>全域的 CSS 設置、樣式與 class 以增強基礎的 HTML 元素，還有優秀的 grid 系統。</p>
         <div id="carbonads-container"><div class="carbonad"><div id="azcarbon"></div><script>var z = document.createElement("script"); z.async = true; z.src = "http://engine.carbonads.com/z/32341/azcarbon_2_1_0_HORIZ"; var s = document.getElementsByTagName("script")[0]; s.parentNode.insertBefore(z, s);</script></div></div>
 
       </div>
@@ -96,18 +96,18 @@
       <div class="row">
         <div class="col-md-9" role="main">
           <div class="bs-docs-section">
-  <h1 id="overview" class="page-header">Overview</h1>
+  <h1 id="overview" class="page-header">概觀</h1>
 
-  <p class="lead">Get the lowdown on the key pieces of Bootstrap's infrastructure, including our approach to better, faster, stronger web development.</p>
+  <p class="lead">深入瞭解 Bootstrap 3 基礎架構的關鍵內容，包含我們讓 Web 開發變的更好、更快、更穩健的方法。</p>
 
   <h2 id="overview-doctype">HTML5 doctype</h2>
-  <p>Bootstrap makes use of certain HTML elements and CSS properties that require the use of the HTML5 doctype. Include it at the beginning of all your projects.</p>
+  <p>Bootstrap 3 所使用的 HTML 元素與 CSS 屬性都需要使用到 HTML5 doctype，將它包含在所有專案中頁面的第一行。</p>
 <div class="highlight"><pre><code class="language-html" data-lang="html"><span class="cp">&lt;!DOCTYPE html&gt;</span>
 <span class="nt">&lt;html</span> <span class="na">lang=</span><span class="s">"en"</span><span class="nt">&gt;</span>
   ...
 <span class="nt">&lt;/html&gt;</span></code></pre></div>
 
-  <h2 id="overview-mobile">Mobile first</h2>
+  <h2 id="overview-mobile">Mobile first (行動優先)</h2>
   <p>With Bootstrap 2, we added optional mobile friendly styles for key aspects of the framework. With Bootstrap 3, we've rewritten the project to be mobile friendly from the start. Instead of adding on optional mobile styles, they're baked right into the core. In fact, <strong>Bootstrap is mobile first</strong>. Mobile first styles can be found throughout the entire library instead of in separate files.</p>
   <p>To ensure proper rendering and touch zooming, <strong>add the viewport meta tag</strong> to your <code>&lt;head&gt;</code>.</p>
 <div class="highlight"><pre><code class="language-html" data-lang="html"><span class="nt">&lt;meta</span> <span class="na">name=</span><span class="s">"viewport"</span> <span class="na">content=</span><span class="s">"width=device-width, initial-scale=1"</span><span class="nt">&gt;</span></code></pre></div>
