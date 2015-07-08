@@ -80,8 +80,8 @@
     <!-- Docs page layout -->
     <div class="bs-docs-header" id="content" tabindex="-1">
       <div class="container">
-        <h1>Getting started</h1>
-        <p>An overview of Bootstrap, how to download and use, basic templates and examples, and more.</p>
+        <h1>入門</h1>
+        <p>下載以及基本使用說明.</p>
         <div id="carbonads-container"><div class="carbonad"><div id="azcarbon"></div><script>var z = document.createElement("script"); z.async = true; z.src = "http://engine.carbonads.com/z/32341/azcarbon_2_1_0_HORIZ"; var s = document.getElementsByTagName("script")[0]; s.parentNode.insertBefore(z, s);</script></div></div>
 
       </div>
@@ -94,7 +94,7 @@
           <div class="bs-docs-section">
   <h1 id="download" class="page-header">Download</h1>
 
-  <p class="lead">Bootstrap (currently v3.3.5) has a few easy ways to quickly get started, each one appealing to a different skill level and use case. Read through to see what suits your particular needs.</p>
+  <p class="lead">目前最新版本的是 Bootstrap (currently v3.3.5) ，是可以很輕易下載的。</p>
 
   <div class="row bs-downloads">
     <div class="col-sm-4">
@@ -284,14 +284,14 @@ Copy any changes made here over to the README too. -->
   <div class="row bs-examples">
     <div class="col-xs-6 col-md-4">
       <a class="thumbnail" href="../examples/starter-template/">
-        <img src="../examples/screenshots/starter-template.jpg" alt="Starter template example">
+        <img src="http://getbootstrap.com/examples/screenshots/starter-template.jpg" alt="Starter template example">
       </a>
       <h3>Starter template</h3>
       <p>Nothing but the basics: compiled CSS and JavaScript along with a container.</p>
     </div>
     <div class="col-xs-6 col-md-4">
       <a class="thumbnail" href="../examples/theme/">
-        <img src="../examples/screenshots/theme.jpg" alt="Bootstrap theme example">
+        <img src="http://getbootstrap.com/examples/screenshots/http://getbootstrap.com/examples/screenshots/theme.jpg" alt="Bootstrap theme example">
       </a>
       <h3>Bootstrap theme</h3>
       <p>Load the optional Bootstrap theme for a visually enhanced experience.</p>
@@ -300,14 +300,14 @@ Copy any changes made here over to the README too. -->
 
     <div class="col-xs-6 col-md-4">
       <a class="thumbnail" href="../examples/grid/">
-        <img src="../examples/screenshots/grid.jpg" alt="Multiple grids example">
+        <img src="http://getbootstrap.com/examples/screenshots/grid.jpg" alt="Multiple grids example">
       </a>
       <h3>Grids</h3>
       <p>Multiple examples of grid layouts with all four tiers, nesting, and more.</p>
     </div>
     <div class="col-xs-6 col-md-4">
       <a class="thumbnail" href="../examples/jumbotron/">
-        <img src="../examples/screenshots/jumbotron.jpg" alt="Jumbotron example">
+        <img src="http://getbootstrap.com/examples/screenshots/jumbotron.jpg" alt="Jumbotron example">
       </a>
       <h3>Jumbotron</h3>
       <p>Build around the jumbotron with a navbar and some basic grid columns.</p>
@@ -315,8 +315,8 @@ Copy any changes made here over to the README too. -->
     <div class="clearfix visible-xs"></div>
 
     <div class="col-xs-6 col-md-4">
-      <a class="thumbnail" href="../examples/jumbotron-narrow/">
-        <img src="../examples/screenshots/jumbotron-narrow.jpg" alt="Narrow jumbotron example">
+      <a class="thumbnail" href="http://getbootstrap.com/examples/jumbotron-narrow/">
+        <img src="http://getbootstrap.com/examples/screenshots/jumbotron-narrow.jpg" alt="Narrow jumbotron example">
       </a>
       <h3>Narrow jumbotron</h3>
       <p>Build a more custom page by narrowing the default container and jumbotron.</p>
@@ -326,14 +326,14 @@ Copy any changes made here over to the README too. -->
   <h2 id="examples-navbars">Navbars in action</h2>
   <div class="row bs-examples">
     <div class="col-xs-6 col-md-4">
-      <a class="thumbnail" href="../examples/navbar/">
-        <img src="../examples/screenshots/navbar.jpg" alt="Navbar example">
+      <a class="thumbnail" href="http://getbootstrap.com/examples/navbar/">
+        <img src="http://getbootstrap.com/examples/screenshots/navbar.jpg" alt="Navbar example">
       </a>
       <h3>Navbar</h3>
       <p>Super basic template that includes the navbar along with some additional content.</p>
     </div>
     <div class="col-xs-6 col-md-4">
-      <a class="thumbnail" href="../examples/navbar-static-top/">
+      <a class="thumbnail" href="http://getbootstrap.com/examples/navbar-static-top/">
         <img src="../examples/screenshots/navbar-static.jpg" alt="Static top navbar example">
       </a>
       <h3>Static top navbar</h3>
@@ -342,7 +342,7 @@ Copy any changes made here over to the README too. -->
     <div class="clearfix visible-xs"></div>
 
     <div class="col-xs-6 col-md-4">
-      <a class="thumbnail" href="../examples/navbar-fixed-top/">
+      <a class="thumbnail" href="http://getbootstrap.com/examples/navbar-fixed-top/">
         <img src="../examples/screenshots/navbar-fixed.jpg" alt="Fixed navbar example">
       </a>
       <h3>Fixed navbar</h3>
@@ -353,15 +353,15 @@ Copy any changes made here over to the README too. -->
   <h2 id="examples-custom">Custom components</h2>
   <div class="row bs-examples">
     <div class="col-xs-6 col-md-4">
-      <a class="thumbnail" href="../examples/cover/">
-        <img src="../examples/screenshots/cover.jpg" alt="A one-page template example">
+      <a class="thumbnail" href="http://getbootstrap.com/examples/cover/">
+        <img src="http://getbootstrap.com/examples/screenshots/cover.jpg" alt="A one-page template example">
       </a>
       <h3>Cover</h3>
       <p>A one-page template for building simple and beautiful home pages.</p>
     </div>
     <div class="col-xs-6 col-md-4">
-      <a class="thumbnail" href="../examples/carousel/">
-        <img src="../examples/screenshots/carousel.jpg" alt="Carousel example">
+      <a class="thumbnail" href="http://getbootstrap.com/examples/carousel/">
+        <img src="http://getbootstrap.com/examples/screenshots/carousel.jpg" alt="Carousel example">
       </a>
       <h3>Carousel</h3>
       <p>Customize the navbar and carousel, then add some new components.</p>
@@ -369,15 +369,15 @@ Copy any changes made here over to the README too. -->
     <div class="clearfix visible-xs"></div>
 
     <div class="col-xs-6 col-md-4">
-      <a class="thumbnail" href="../examples/blog/">
-        <img src="../examples/screenshots/blog.jpg" alt="Blog layout example">
+      <a class="thumbnail" href="http://getbootstrap.com/examples/blog/">
+        <img src="http://getbootstrap.com/examples/screenshots/blog.jpg" alt="Blog layout example">
       </a>
       <h3>Blog</h3>
       <p>Simple two-column blog layout with custom navigation, header, and type.</p>
     </div>
     <div class="col-xs-6 col-md-4">
       <a class="thumbnail" href="../examples/dashboard/">
-        <img src="../examples/screenshots/dashboard.jpg" alt="Dashboard example">
+        <img src="http://getbootstrap.com/examples/screenshots/dashboard.jpg" alt="Dashboard example">
       </a>
       <h3>Dashboard</h3>
       <p>Basic structure for an admin dashboard with fixed sidebar and navbar.</p>
@@ -385,15 +385,15 @@ Copy any changes made here over to the README too. -->
     <div class="clearfix visible-xs"></div>
 
     <div class="col-xs-6 col-md-4">
-      <a class="thumbnail" href="../examples/signin/">
-        <img src="../examples/screenshots/sign-in.jpg" alt="Sign-in page example">
+      <a class="thumbnail" href="http://getbootstrap.com/examples/signin/">
+        <img src="http://getbootstrap.com/examples/screenshots/sign-in.jpg" alt="Sign-in page example">
       </a>
       <h3>Sign-in page</h3>
       <p>Custom form layout and design for a simple sign in form.</p>
     </div>
     <div class="col-xs-6 col-md-4">
-      <a class="thumbnail" href="../examples/justified-nav/">
-        <img src="../examples/screenshots/justified-nav.jpg" alt="Justified nav example">
+      <a class="thumbnail" href="http://getbootstrap.com/examples/justified-nav/">
+        <img src="http://getbootstrap.com/examples/screenshots/justified-nav.jpg" alt="Justified nav example">
       </a>
       <h3>Justified nav</h3>
       <p>Create a custom navbar with justified links. Heads up! <a href="../components/#nav-justified">Not too Safari friendly.</a></p>
@@ -401,15 +401,15 @@ Copy any changes made here over to the README too. -->
     <div class="clearfix visible-xs"></div>
 
     <div class="col-xs-6 col-md-4">
-      <a class="thumbnail" href="../examples/sticky-footer/">
-        <img src="../examples/screenshots/sticky-footer.jpg" alt="Sticky footer example">
+      <a class="thumbnail" href="http://getbootstrap.com/examples/sticky-footer/">
+        <img src="http://getbootstrap.com/examples/screenshots/sticky-footer.jpg" alt="Sticky footer example">
       </a>
       <h3>Sticky footer</h3>
       <p>Attach a footer to the bottom of the viewport when the content is shorter than it.</p>
     </div>
     <div class="col-xs-6 col-md-4">
-      <a class="thumbnail" href="../examples/sticky-footer-navbar/">
-        <img src="../examples/screenshots/sticky-footer-navbar.jpg" alt="Sticky footer with navbar example">
+      <a class="thumbnail" href="http://getbootstrap.com/examples/sticky-footer-navbar/">
+        <img src="http://getbootstrap.com/examples/screenshots/sticky-footer-navbar.jpg" alt="Sticky footer with navbar example">
       </a>
       <h3>Sticky footer with navbar</h3>
       <p>Attach a footer to the bottom of the viewport with a fixed navbar at the top.</p>
@@ -419,15 +419,15 @@ Copy any changes made here over to the README too. -->
   <h2 id="examples-experiments">Experiments</h2>
   <div class="row bs-examples">
     <div class="col-xs-6 col-md-4">
-      <a class="thumbnail" href="../examples/non-responsive/">
-        <img src="../examples/screenshots/non-responsive.jpg" alt="Non-responsive example">
+      <a class="thumbnail" href="http://getbootstrap.com/examples/non-responsive/">
+        <img src="http://getbootstrap.com/examples/screenshots/non-responsive.jpg" alt="Non-responsive example">
       </a>
       <h3>Non-responsive Bootstrap</h3>
       <p>Easily disable the responsiveness of Bootstrap <a href="#disable-responsive">per our docs</a>.</p>
     </div>
     <div class="col-xs-6 col-md-4">
-      <a class="thumbnail" href="../examples/offcanvas/">
-        <img src="../examples/screenshots/offcanvas.jpg" alt="Off-canvas navigation example">
+      <a class="thumbnail" href="http://getbootstrap.com/examples/offcanvas/">
+        <img src="http://getbootstrap.com/examples/screenshots/offcanvas.jpg" alt="Off-canvas navigation example">
       </a>
       <h3>Off-canvas</h3>
       <p>Build a toggleable off-canvas navigation menu for use with Bootstrap.</p>

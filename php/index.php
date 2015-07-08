@@ -80,8 +80,8 @@
     <main class="bs-docs-masthead" id="content" role="main" tabindex="-1">
   <div class="container">
     <span class="bs-docs-booticon bs-docs-booticon-lg bs-docs-booticon-outline">B</span>
-    <p class="lead">Bootstrap is the most popular HTML, CSS, and JS framework for developing responsive, mobile first projects on the web.</p>
-    <p class="lead">
+    <p class="lead">Bootstrap 是目前最廣泛利用在 RWD 設計上的套件，</p>
+    <p class="lead">可以輕易的讓你網頁跨裝置的</p>
       <a href="getting-started#download" class="btn btn-outline-inverse btn-lg" onclick="ga('send', 'event', 'Jumbotron actions', 'Download', 'Download 3.3.5');">Download Bootstrap</a>
     </p>
     <p class="version">Currently v3.3.5</p>
@@ -92,7 +92,7 @@
 
 <div class="bs-docs-featurette">
   <div class="container">
-    <h2 class="bs-docs-featurette-title">Designed for everyone, everywhere.</h2>
+    <h2 class="bs-docs-featurette-title">專為每一個人 每一處設計</h2>
     <p class="lead">Bootstrap makes front-end web development faster and easier. It's made for folks of all skill levels, devices of all shapes, and projects of all sizes.</p>
 
     <hr class="half-rule">
@@ -117,15 +117,15 @@
 
     <hr class="half-rule">
 
-    <p class="lead">Bootstrap is open source. It's hosted, developed, and maintained on GitHub.</p>
+    <p class="lead">Bootstrap 是開放原始碼的套件.</p>
     <a href="https://github.com/twbs/bootstrap" class="btn btn-outline btn-lg">View the GitHub project</a>
   </div>
 </div>
 
 <div class="bs-docs-featurette">
   <div class="container">
-    <h2 class="bs-docs-featurette-title">Built with Bootstrap.</h2>
-    <p class="lead">Millions of amazing sites across the web are being built with Bootstrap. Get started on your own with our growing <a href="../getting-started/#examples">collection of examples</a> or by exploring some of our favorites.</p>
+    <h2 class="bs-docs-featurette-title">範例網站</h2>
+    <p class="lead">超過百萬的網站使用了 Bootstrap 套件來開發，</a> 不論是靜態網頁或者動態網頁皆可。</p>
 
     <hr class="half-rule">
 
