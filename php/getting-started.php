@@ -830,10 +830,10 @@ Copy any changes made here over to the README too. -->
   </ul>
 </li>
 <li>
-  <a href="#template">Basic template</a>
+  <a href="#template">基礎樣式</a>
 </li>
 <li>
-  <a href="#examples">Examples</a>
+  <a href="#examples">範例</a>
   <ul class="nav">
     <li><a href="#examples-framework">Using the framework</a></li>
     <li><a href="#examples-navbars">Navbars in action</a></li>
@@ -842,7 +842,7 @@ Copy any changes made here over to the README too. -->
   </ul>
 </li>
 <li>
-  <a href="#tools">Tools</a>
+  <a href="#tools">工具</a>
   <ul class="nav">
     <li><a href="#tools-bootlint">Bootlint</a></li>
   </ul>
@@ -882,7 +882,7 @@ Copy any changes made here over to the README too. -->
   <a href="#accessibility">Accessibility</a>
 </li>
 <li>
-  <a href="#license-faqs">License FAQs</a>
+  <a href="#license-faqs">授權說明</a>
 </li>
 <li>
   <a href="#translations">Translations</a>
