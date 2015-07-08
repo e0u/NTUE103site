@@ -120,39 +120,6 @@
     </div>
   </div>
 
-  <h2 id="download-cdn">Bootstrap CDN</h2>
-  <p>The folks over at <a href="https://www.maxcdn.com/">MaxCDN</a> graciously provide CDN support for Bootstrap's CSS and JavaScript. Just use these <a href="https://www.bootstrapcdn.com/">Bootstrap CDN</a> links.</p>
-<div class="highlight"><pre><code class="language-html" data-lang="html"><span class="c">&lt;!-- Latest compiled and minified CSS --&gt;</span>
-<span class="nt">&lt;link</span> <span class="na">rel=</span><span class="s">"stylesheet"</span> <span class="na">href=</span><span class="s">"https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css"</span><span class="nt">&gt;</span>
-
-<span class="c">&lt;!-- Optional theme --&gt;</span>
-<span class="nt">&lt;link</span> <span class="na">rel=</span><span class="s">"stylesheet"</span> <span class="na">href=</span><span class="s">"https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap-theme.min.css"</span><span class="nt">&gt;</span>
-
-<span class="c">&lt;!-- Latest compiled and minified JavaScript --&gt;</span>
-<span class="nt">&lt;script </span><span class="na">src=</span><span class="s">"https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"</span><span class="nt">&gt;&lt;/script&gt;</span></code></pre></div>
-
-  <h2 id="download-bower">Install with Bower</h2>
-  <p>You can also install and manage Bootstrap's Less, CSS, JavaScript, and fonts using <a href="http://bower.io">Bower</a>:</p>
-  <div class="highlight"><pre><code class="language-bash" data-lang="bash"><span class="gp">$ </span>bower install bootstrap</code></pre></div>
-
-  <h2 id="download-npm">Install with npm</h2>
-  <p>You can also install Bootstrap using <a href="https://www.npmjs.com">npm</a>:</p>
-  <div class="highlight"><pre><code class="language-bash" data-lang="bash"><span class="gp">$ </span>npm install bootstrap</code></pre></div>
-  <p><code>require('bootstrap')</code> will load all of Bootstrap's jQuery plugins onto the jQuery object. The <code>bootstrap</code> module itself does not export anything. You can manually load Bootstrap's jQuery plugins individually by loading the <code>/js/*.js</code> files under the package's top-level directory.</p>
-  <p>Bootstrap's <code>package.json</code> contains some additional metadata under the following keys:</p>
-  <ul>
-    <li><code>less</code> - path to Bootstrap's main <a href="http://lesscss.org">Less</a> source file</li>
-    <li><code>style</code> - path to Bootstrap's non-minified CSS that's been precompiled using the default settings (no customization)</li>
-  </ul>
-
-  <h2 id="download-composer">Install with Composer</h2>
-  <p>You can also install and manage Bootstrap's Less, CSS, JavaScript, and fonts using <a href="https://getcomposer.org">Composer</a>:</p>
-  <div class="highlight"><pre><code class="language-bash" data-lang="bash"><span class="gp">$ </span>composer require twbs/bootstrap</code></pre></div>
-
-  <h2 id="download-autoprefixer">Autoprefixer required for Less/Sass</h2>
-  <p>Bootstrap uses <a href="https://github.com/postcss/autoprefixer">Autoprefixer</a> to deal with <a href="http://webdesign.about.com/od/css/a/css-vendor-prefixes.htm">CSS vendor prefixes</a>. If you're compiling Bootstrap from its Less/Sass source and not using our Gruntfile, you'll need to integrate Autoprefixer into your build process yourself. If you're using precompiled Bootstrap or using our Gruntfile, you don't need to worry about this because Autoprefixer is already integrated into our Gruntfile.</p>
-</div>
-
 <div class="bs-docs-section">
   <h1 id="whats-included" class="page-header">What's included</h1>
 
@@ -283,14 +250,14 @@ Copy any changes made here over to the README too. -->
   <h2 id="examples-framework">Using the framework</h2>
   <div class="row bs-examples">
     <div class="col-xs-6 col-md-4">
-      <a class="thumbnail" href="../examples/starter-template/">
+      <a class="thumbnail" href="http://getbootstrap.com/examples/starter-template/">
         <img src="http://getbootstrap.com/examples/screenshots/starter-template.jpg" alt="Starter template example">
       </a>
       <h3>Starter template</h3>
       <p>Nothing but the basics: compiled CSS and JavaScript along with a container.</p>
     </div>
     <div class="col-xs-6 col-md-4">
-      <a class="thumbnail" href="../examples/theme/">
+      <a class="thumbnail" href="http://getbootstrap.com/examples/theme/">
         <img src="http://getbootstrap.com/examples/screenshots/http://getbootstrap.com/examples/screenshots/theme.jpg" alt="Bootstrap theme example">
       </a>
       <h3>Bootstrap theme</h3>
@@ -299,14 +266,14 @@ Copy any changes made here over to the README too. -->
     <div class="clearfix visible-xs"></div>
 
     <div class="col-xs-6 col-md-4">
-      <a class="thumbnail" href="../examples/grid/">
+      <a class="thumbnail" href="http://getbootstrap.com/examples/grid/">
         <img src="http://getbootstrap.com/examples/screenshots/grid.jpg" alt="Multiple grids example">
       </a>
       <h3>Grids</h3>
       <p>Multiple examples of grid layouts with all four tiers, nesting, and more.</p>
     </div>
     <div class="col-xs-6 col-md-4">
-      <a class="thumbnail" href="../examples/jumbotron/">
+      <a class="thumbnail" href="http://getbootstrap.com/examples/jumbotron/">
         <img src="http://getbootstrap.com/examples/screenshots/jumbotron.jpg" alt="Jumbotron example">
       </a>
       <h3>Jumbotron</h3>
@@ -334,7 +301,7 @@ Copy any changes made here over to the README too. -->
     </div>
     <div class="col-xs-6 col-md-4">
       <a class="thumbnail" href="http://getbootstrap.com/examples/navbar-static-top/">
-        <img src="../examples/screenshots/navbar-static.jpg" alt="Static top navbar example">
+        <img src="http://getbootstrap.com/examples/screenshots/navbar-static.jpg" alt="Static top navbar example">
       </a>
       <h3>Static top navbar</h3>
       <p>Super basic template with a static top navbar along with some additional content.</p>
@@ -343,7 +310,7 @@ Copy any changes made here over to the README too. -->
 
     <div class="col-xs-6 col-md-4">
       <a class="thumbnail" href="http://getbootstrap.com/examples/navbar-fixed-top/">
-        <img src="../examples/screenshots/navbar-fixed.jpg" alt="Fixed navbar example">
+        <img src="http://getbootstrap.com/examples/screenshots/navbar-fixed.jpg" alt="Fixed navbar example">
       </a>
       <h3>Fixed navbar</h3>
       <p>Super basic template with a fixed top navbar along with some additional content.</p>
