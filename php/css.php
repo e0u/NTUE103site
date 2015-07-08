@@ -81,7 +81,6 @@
   </div>
 </header>
 
-
     <!-- Docs page layout -->
     <div class="bs-docs-header" id="content" tabindex="-1">
       <div class="container">
