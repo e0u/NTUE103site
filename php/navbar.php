@@ -24,7 +24,7 @@
     <script src="//s3-ap-northeast-1.amazonaws.com/justfont-user-script/jf-34167.js"></script>
   </head>
 
-    <div class="navbar navbar-fixed-top navbar-inverse" role="navigation">
+     <header class="navbar navbar-static-top bs-docs-nav" id="top" role="banner">
       <div class="container">
         <div class="navbar-header">
           <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
@@ -66,5 +66,4 @@
       </div><!-- /.container -->
     </div><!-- /.navbar -->
 
-
-
+</header>
