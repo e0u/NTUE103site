@@ -99,17 +99,17 @@
 
     <div class="row">
       <div class="col-sm-4">
-        <img src="assets/img/sass-less.png" alt="Sass and Less support" class="img-responsive">
+        <img src="sass-less.png" alt="Sass and Less support" class="img-responsive">
         <h3>Preprocessors</h3>
         <p>Bootstrap ships with vanilla CSS, but its source code utilizes the two most popular CSS preprocessors, <a href="../css/#less">Less</a> and <a href="../css/#sass">Sass</a>. Quickly get started with precompiled CSS or build on the source.</p>
       </div>
       <div class="col-sm-4">
-        <img src="assets/img/devices.png" alt="Responsive across devices" class="img-responsive">
+        <img src="devices.png" alt="Responsive across devices" class="img-responsive">
         <h3>One framework, every device.</h3>
         <p>Bootstrap easily and efficiently scales your websites and applications with a single code base, from phones to tablets to desktops with CSS media queries.</p>
       </div>
       <div class="col-sm-4">
-        <img src="assets/img/components.png" alt="Components" class="img-responsive">
+        <img src="components.png" alt="Components" class="img-responsive">
         <h3>Full of features</h3>
         <p>With Bootstrap, you get extensive and beautiful documentation for common HTML elements, dozens of custom HTML and CSS components, and awesome jQuery plugins.</p>
       </div>
@@ -133,25 +133,25 @@
     
       <div class="col-xs-6 col-sm-3">
         <a href="http://expo.getbootstrap.com/2014/10/29/lyft/" target="_blank" title="Lyft">
-          <img src="http://expo.getbootstrap.com/thumbs/lyft-thumb.jpg" alt="Lyft" class="img-responsive">
+          <img src="lyft-thumb.jpg" alt="Lyft" class="img-responsive">
         </a>
       </div>
     
       <div class="col-xs-6 col-sm-3">
         <a href="http://expo.getbootstrap.com/2014/09/30/vogue/" target="_blank" title="Vogue">
-          <img src="http://expo.getbootstrap.com/thumbs/vogue-thumb.jpg" alt="Vogue" class="img-responsive">
+          <img src="vogue-thumb.jpg" alt="Vogue" class="img-responsive">
         </a>
       </div>
     
       <div class="col-xs-6 col-sm-3">
         <a href="http://expo.getbootstrap.com/2014/03/13/riot-design/" target="_blank" title="Riot Design">
-          <img src="http://expo.getbootstrap.com/thumbs/riot-thumb.jpg" alt="Riot Design" class="img-responsive">
+          <img src="riot-thumb.jpg" alt="Riot Design" class="img-responsive">
         </a>
       </div>
     
       <div class="col-xs-6 col-sm-3">
         <a href="http://expo.getbootstrap.com/2014/02/12/newsweek/" target="_blank" title="Newsweek">
-          <img src="http://expo.getbootstrap.com/thumbs/newsweek-thumb.jpg" alt="Newsweek" class="img-responsive">
+          <img src="newsweek-thumb.jpg" alt="Newsweek" class="img-responsive">
         </a>
       </div>
     
